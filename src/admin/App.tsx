@@ -5,7 +5,7 @@ import { Admin, Resource, ListGuesser, EditGuesser } from 'react-admin';
 // const dataProvider = jsonServerProvider('https://jsonplaceholder.typicode.com');
 
 import postgrestRestProvider from "@promitheus/ra-data-postgrest";
-import { AllTranslationList, TranslationList } from "./TranslationList";
+import { TranslationList } from "./TranslationList";
 import { TranslationEdit } from "./TranslationEdit";
 import Dashboard from "../Dashboard";
 import { CustomMenu } from "../CustomMenu";

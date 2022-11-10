@@ -33,4 +33,4 @@ const MenuButtons = () => (
     </Menu>
 );
 
-export const CustomMenu = props => <Layout {...props} menu={MenuButtons} />;
+export const CustomMenu = (props: any) => <Layout {...props} menu={MenuButtons} />;
