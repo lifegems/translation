@@ -1,0 +1,4306 @@
+[
+   {
+         "s": "Potential conflict",
+         ".": "When two assignments may conflict with each other, a warning is shown with this label. An example is someone who has a part on the midweek meeting and is also an attendant at the same meeting."
+   },
+   {
+         "s": "Assign Privileges",
+         ".": "This role allows someone to assign privileges to other congregation members. They can select who is allowed to give certain parts, be an attendant, handle microphones, etc."
+   },
+   {
+         "s": "This congregation has already been added.",
+         ".": "When someone tries to add a congregation that they have already added for public speakers on the weekend meeting"
+   },
+   {
+         "s": "The records are ordered based on the direction in sfl 22.12.",
+         ".": "Explains how the Publishers, Record cards PDF is organized by referring to the shepherding textbook."
+   },
+   {
+         "s": "You already have an event for that week.",
+         ".": "An error message shown when someone tries to add a second event for the same week (e.g. adding a circuit assembly and a regional convention in the same week)"
+   },
+   {
+         "s": "More",
+         ".": "This indicates a button or menu that reveals more information or additional options"
+   },
+   {
+         "s": "New"
+   },
+   {
+         "s": "Hourglass can send you notifications of new assignments and reminders to enter your field service report.",
+         ".": "Explains why the app is about to request push notification permissions, which the user will have to accept or decline. This has always been required on iOS and is new on Android 13."
+   },
+   {
+         "s": "Watchtower Conductor",
+         ".": "Assignment for someone to conduct the Watchtower study at the weekend meeting. This will be used to schedule someone if it's known ahead of time that the regular conductor will not be available."
+   },
+   {
+         "s": "Allow publishers to schedule other publishers",
+         ".": "An option, under settings, that allows any publisher to assign any other publisher to a shift for public witnessing"
+   },
+   {
+         "s": "Enable Open Scheduling",
+         ".": "An option, under settings, that allows publishers to sign up for their own public witnessing shifts"
+   },
+   {
+         "s": "Regular pioneer progress"
+   },
+   {
+         "s": "Field service averages per publisher, group, and congregation"
+   },
+   {
+         "s": "Congregation statistics, including age, years baptized, and active/inactive/irregular publishers"
+   },
+   {
+         "s": "Detailed list of all monthly activity"
+   },
+   {
+         "s": "Monthly totals, ready for submission to the Branch"
+   },
+   {
+         "s": "See a list of missing field service reports for each publisher"
+   },
+   {
+         "s": "Create printable PDF schedules"
+   },
+   {
+         "s": "For Public witnessing, you can establish locations, availability, and create schedules"
+   },
+   {
+         "s": "Assign cleaning and field service meetings"
+   },
+   {
+         "s": "Absences, such as vacations, prevent someone from being given an assignment while they are not available"
+   },
+   {
+         "s": "Audio and video console, attendants, microphones, and stage"
+   },
+   {
+         "s": "Schedule weekend meeting assignments, including chairman, reader, and hospitality"
+   },
+   {
+         "s": "Incoming and outgoing public speakers: track when the last time an outline was given, and see up-to-date information about speakers and talks from other congregations"
+   },
+   {
+         "s": "Schedule all parts for the midweek meeting, and make adjustments to the parts if needed"
+   },
+   {
+         "s": "Assign privileges to each member of the congregation, controlling which assignments they can receive"
+   },
+   {
+         "s": "General",
+         ".": "Generic, applies to many different things"
+   },
+   {
+         "s": "Export your congregation's data via PDF, CSV, or JSON"
+   },
+   {
+         "s": "Publishers receive notifications through the mobile app to submit field service, accept assignments, and more"
+   },
+   {
+         "s": "Everything is always up-to-date and synchronized automatically"
+   },
+   {
+         "s": "Monthly and yearly totals, congregation statistics, pioneer progress, averages",
+         ".": "Appears under the Reports heading on the main web site"
+   },
+   {
+         "s": "Cleaning, field service, public witnessing, midweek and weekend meetings, audio/video, attendants, etc.",
+         ".": "A list of things that can be scheduled in Hourglass"
+   },
+   {
+         "s": "Publishers, field service groups, emergency contacts, meeting attendance",
+         ".": "Text under the Organize heading"
+   },
+   {
+         "s": "Organize",
+         ".": "A heading on the main web site"
+   },
+   {
+         "s": "Can I help translate Hourglass into another language?"
+   },
+   {
+         "s": "Unlike some programs designed for congregations, Hourglass is not run as a for-profit business."
+   },
+   {
+         "s": "How much does it cost to use Hourglass?"
+   },
+   {
+         "s": "Yes. Hourglass was created by brothers who want to diligently care for their assignments using modern technology."
+   },
+   {
+         "s": "Are the developers and maintainers of Hourglass Jehovah's Witnesses?"
+   },
+   {
+         "s": "No, Hourglass does not use online storage services to store your data.",
+         ".": "Answer to a frequently asked question"
+   },
+   {
+         "s": "Does Hourglass use online storage services (Dropbox, Google Drive, OneDrive, etc.) to store my congregation's data?",
+         ".": "Title of a frequently asked question on the main web site"
+   },
+   {
+         "s": "Hourglass is for congregations of Jehovah's Witnesses",
+         ".": "On the main web site (www.hourglass-app.com), provides a high level introduction to what Hourglass is"
+   },
+   {
+         "s": "Intuitive scheduling for meetings, ministry, and more.",
+         ".": "Appears on the main web site to provide an overview of scheduling capabilities."
+   },
+   {
+         "s": "Assign meeting parts, public witnessing, attendants, and more. Assignees are instantly notified and can accept or decline.",
+         ".": "This appears on the main web site to provide an overview of Hourglass assignment capabilities."
+   },
+   {
+         "s": "Public Witnessing Only",
+         ".": "An absence can be set as only being for public witnessing - if someone is unavailable for public witnessing for some time period, but can still do other assignments. This text will appear as a heading for a column on the absences page."
+   },
+   {
+         "s": "Outlines",
+         ".": "Heading for weekend meetings, where public talk outlines are listed"
+   },
+   {
+         "s": "End",
+         ".": "The end of something, usually a date or time range"
+   },
+   {
+         "s": "Begin",
+         ".": "The start of something, usually the beginning of a date or time range"
+   },
+   {
+         "s": "Select publishers who should or should not be scheduled together when using Auto-Fill.",
+         ".": "Instructions for the area in which publisher's preferences of who to be scheduled with for public witnessing are entered."
+   },
+   {
+         "s": "Don't Schedule Together",
+         ".": "Indicates that two publishers should not be scheduled together for public witnessing"
+   },
+   {
+         "s": "Schedule Together",
+         ".": "Indicates that two publishers should be scheduled together for public witnessing"
+   },
+   {
+         "s": "Weekly",
+         ".": "Heading for when something can be done weekly or how often each week it can be done"
+   },
+   {
+         "s": "Daily",
+         ".": "Heading for when something is to be done every day, or a configuration of how often something can be done each day"
+   },
+   {
+         "s": "Edit Part",
+         ".": "Title for a dialog box where parts can be edited, such as changing a part due to Branch instructions"
+   },
+   {
+         "s": "You have unsaved changes. What do you want to do?",
+         ".": "This message appears if the user navigates away from a page when there are still unsaved changes."
+   },
+   {
+         "s": "Create Empty Schedule",
+         ".": "Menu item to create a public witnessing schedule, but not assign any publishers"
+   },
+   {
+         "s": "Auto-Fill Existing Schedule",
+         ".": "Menu item to auto-assign publishers to the existing public witnessing schedule"
+   },
+   {
+         "s": "Create Schedule & Auto-Fill",
+         ".": "A menu option that creates public witnessing schedules and assigns publishers"
+   },
+   {
+         "s": "Not assigned",
+         ".": "When an assignment does not have someone assigned to it"
+   },
+   {
+         "s": "Preferences"
+   },
+   {
+         "s": "These congregations would like to exchange speakers with you:",
+         ".": "Heading above a list of congregations with pending speaker trade requests"
+   },
+   {
+         "s": "This congregation has not yet accepted your speaker trade request.",
+         ".": "This is shown in the congregation information area of weekend schedules, when a congregation has been added but they have not yet accepted the request to exchange public speakers."
+   },
+   {
+         "s": "Availability",
+         ".": "This heading is for a page that allows management of availability for public witnessing, including days of the week and time"
+   },
+   {
+         "s": "Location",
+         ".": "A single location (the singular form of schedules.public-witnessing.locations)"
+   },
+   {
+         "s": "Locations",
+         ".": "Heading for a list of locations. This is initially going to be used to show where public witnessing takes place."
+   },
+   {
+         "s": "Service Talk",
+         ".": "Label for the title of a service talk (such as the CO's final talk on Sunday)"
+   },
+   {
+         "s": "Circuit Overseer Weekend Service Talk Title",
+         ".": "A setting for the circuit overseer's concluding talk at the weekend meeting (not the public talk)"
+   },
+   {
+         "s": "Congregation Analysis is available beginning September 1.",
+         ".": "If someone tries to view the congregation analysis in a month other than September or October, they see this message instead."
+   },
+   {
+         "s": "Public Witnessing Scheduling",
+         ".": "Permission allowing someone to create schedules for public witnessing"
+   },
+   {
+         "s": "Field Ministry Scheduling",
+         ".": "Permission that allows someone to schedule field service meetings"
+   },
+   {
+         "s": "Cleaning Scheduling",
+         ".": "Permission that allows someone to create cleaning schedules"
+   },
+   {
+         "s": "This transfer was created by your congregation. Publishers can only be transferred between different congregations.",
+         ".": "An error message when someone tries to perform a transfer that their own congregation initiated."
+   },
+   {
+         "s": "Every Week",
+         ".": "An option when creating a schedule assignment indicating that it happens every week. For example, someone might be assigned to conduct the field service meeting every Monday morning."
+   },
+   {
+         "s": "Cleaning label",
+         ".": "A setting which allows someone to enter a label/description for a cleaning assignment"
+   },
+   {
+         "s": "Number of cleaning assignments",
+         ".": "How many cleaning assignments to have in the congregation"
+   },
+   {
+         "s": "Ministry"
+   },
+   {
+         "s": "Public Witnessing",
+         ".": "Title for public ministry assignments and schedules (e.g. cart witnessing)"
+   },
+   {
+         "s": "Conflicting absence",
+         ".": "This text is shown in the legend of icons for the status of an assignment (along with accepted, declined, etc.). It indicates that after the assignment was made, an absence was entered, and now an absence is scheduled during the assignment."
+   },
+   {
+         "s": "Absences",
+         ".": "Title for the area where scheduled absences can be entered. This would be for example when someone is on vacation and should not be scheduled for an assignment."
+   },
+   {
+         "s": "Assign",
+         ".": "When making a schedule of assignments, this text might be placed on a button which indicates assigning a particular person"
+   },
+   {
+         "s": "Select",
+         ".": "A heading or indicator to select from a list of options"
+   },
+   {
+         "s": "Counsel Point",
+         ".": "Counsel point for a midweek student assignment"
+   },
+   {
+         "s": "Circuit Overseer Midweek Talk Title"
+   },
+   {
+         "s": "Today"
+   },
+   {
+         "s": "Some of your congregation's data still needs to be encrypted.",
+         ".": "A warning message when the congregation has not completed the E2E encryption process"
+   },
+   {
+         "s": "Your congregation could not be found on jw.org. Please contact Hourglass support for assistance.",
+         ".": "When a congregation cannot be found on jw.org, this is shown as a warning after an administrator logs in."
+   },
+   {
+         "s": "Stage label",
+         ".": "Label for each stage assignment in the AV/Attendant schedule"
+   },
+   {
+         "s": "Microphone label",
+         ".": "Setting for each microphone assignment"
+   },
+   {
+         "s": "Audio label",
+         ".": "Label for each audio console assignment"
+   },
+   {
+         "s": "Video label",
+         ".": "Label for each video assignment in the AV/Attendant schedule"
+   },
+   {
+         "s": "Number of video assignments"
+   },
+   {
+         "s": "Video",
+         ".": "Assignment label for the video console operator"
+   },
+   {
+         "s": "Audio",
+         ".": "Indicates the assignment of operating the audio console. It will be shown in the AV/Attendant assignments with this label"
+   },
+   {
+         "s": "Last Given: %(date)s",
+         ".": "Shows when a public talk was last given. Do not translate \"%(date)s\". It will be replaced by the date when the talk was last given in the congregation."
+   },
+   {
+         "s": "Description",
+         ".": "A description field to provide details about something"
+   },
+   {
+         "s": "Event Title",
+         ".": "The title of a custom event"
+   },
+   {
+         "s": "Custom Event",
+         ".": "In addition to Circuit Overseer visit, assembly, and convention, a congregation can create special \"custom\" events to describe something on their theocratic calendar"
+   },
+   {
+         "s": "Enrolled in the Life & Ministry school, but not a publisher",
+         ".": "Help text for \"student only\" status"
+   },
+   {
+         "s": "Student Only",
+         ".": "Status for someone who is not a publisher, they are only a student in the life & ministry meeting"
+   },
+   {
+         "s": "AV/Attendant Scheduling",
+         ".": "A permission setting allowing scheduling of Audio/Video and Attendants"
+   },
+   {
+         "s": "Weekend Scheduling",
+         ".": "A permission setting allowing someone to schedule parts on weekend meetings including public speakers"
+   },
+   {
+         "s": "Midweek Scheduling",
+         ".": "This is a permission setting allowing someone to schedule parts on the midweek meeting"
+   },
+   {
+         "s": "Would you like to add your Google account to Hourglass? You can use it later to sign in.",
+         ".": "An option that shows on mobile clients offering users the option to link their Google account"
+   },
+   {
+         "s": "No thanks",
+         ".": "Button that allows the user to decline an option"
+   },
+   {
+         "s": "Last Scheduled",
+         ".": "Heading for when a public talk outline was last scheduled"
+   },
+   {
+         "s": "Talk Title",
+         ".": "Heading for public talk titles"
+   },
+   {
+         "s": "given by a local speaker",
+         ".": "Indicates that a public talk is given by a speaker in your congregation"
+   },
+   {
+         "s": "Upcoming talks for %(speaker)s",
+         ".": "Do not translate \"%(speaker)s\". It will be replaced with the speaker's name."
+   },
+   {
+         "s": "Upcoming",
+         ".": "Upcoming public speakers"
+   },
+   {
+         "s": "To share with other congregations"
+   },
+   {
+         "s": "Export Speakers"
+   },
+   {
+         "s": "Data",
+         ".": "Weekend meeting tab where data can be imported and exported"
+   },
+   {
+         "s": "Local speakers are added/deleted by setting the \"Public Talks\" and \"Public Talks - Away\" privileges.",
+         ".": "Information on how to manage local speakers"
+   },
+   {
+         "s": "Local Speakers",
+         ".": "Heading for information about how to manage local public speakers"
+   },
+   {
+         "s": "Your congregation must be linked to jw.org",
+         ".": "Message indicating that the congregation is not set up correctly"
+   },
+   {
+         "s": "Warning: by removing this privilege, all public talks that are scheduled for this publisher will be permanently deleted.",
+         ".": "A warning that shows next to the public talks privilege"
+   },
+   {
+         "s": "Are you sure?",
+         ".": "General confirmation dialog"
+   },
+   {
+         "s": "From the home page of NW Scheduler, click the Backup All Data button and save the backup file."
+   },
+   {
+         "s": "Reset",
+         ".": "A button used to reset values back to their defaults"
+   },
+   {
+         "s": "Talk",
+         ".": "A talk (usually a public talk, but could be anything)"
+   },
+   {
+         "s": "Speaker",
+         ".": "Heading for a public talk speaker"
+   },
+   {
+         "s": "No outgoing talks scheduled for this week",
+         ".": "A message indicating that no speakers are outgoing for a given week"
+   },
+   {
+         "s": "Exchange",
+         ".": "Exchange is a place for congregations to exchange public speakers"
+   },
+   {
+         "s": "Speaker List",
+         ".": "List of public speakers"
+   },
+   {
+         "s": "Meeting TIme",
+         ".": "The congregation's meeting time"
+   },
+   {
+         "s": "Phone",
+         ".": "Phone number"
+   },
+   {
+         "s": "This will overwrite existing speaker data where the names match.",
+         ".": "Notice regarding importing speaker data"
+   },
+   {
+         "s": "Import Hourglass files from other congregations",
+         ".": "Allows you to import an hourglass speaker file received from another congregation"
+   },
+   {
+         "s": "Import Speaker Data",
+         ".": "Heading of an area where speaker information can be imported"
+   },
+   {
+         "s": "Private notes...",
+         ".": "A place to put notes for congregations that you exchange speakers with"
+   },
+   {
+         "s": "Outgoing Talks",
+         ".": "Indication of whether someone can give outgoing talks"
+   },
+   {
+         "s": "You already have an Hourglass login. If you can't remember the details, please ask a congregation administrator.",
+         ".": "When someone accepts an invitation but they already have a login set up"
+   },
+   {
+         "s": "Schedule A/V & Attendants Weekly",
+         ".": "Option to schedule audio/video and attendants weekly instead of each meeting"
+   },
+   {
+         "s": "No assignments",
+         ".": "When someone views a list of their assignments, but they do not have any, this is shown."
+   },
+   {
+         "s": "Congregations",
+         ".": "Heading for a list of congregations"
+   },
+   {
+         "s": "Are you sure you want to delete this speaker?",
+         ".": "Confirmation of deleting a public speaker"
+   },
+   {
+         "s": "Are you sure you want to delete this congregation?",
+         ".": "Confirmation of deleting a congregation that you exchange public speakers with"
+   },
+   {
+         "s": "There is a problem with the file you uploaded.",
+         ".": "An error message when there is something wrong with an uploaded file."
+   },
+   {
+         "s": "Upload",
+         ".": "Upload something, such as a file"
+   },
+   {
+         "s": "Use this template",
+         ".": "Link to a CSV template for multiple speakers"
+   },
+   {
+         "s": "Upload multiple speakers by entering each speaker in a CSV file.",
+         ".": "Instructions for adding multiple public speakers"
+   },
+   {
+         "s": "Add Multiple Speakers",
+         ".": "Heading of form where multiple speakers can be added"
+   },
+   {
+         "s": "Multiple",
+         ".": "Adding more than one public speaker at a time"
+   },
+   {
+         "s": "Single",
+         ".": "Adding just one public speaker at a time"
+   },
+   {
+         "s": "A first and last name must be included to create a new speaker.",
+         ".": "Error message if a first and last name aren't added for a speaker"
+   },
+   {
+         "s": "Add Speaker",
+         ".": "Heading of a form that lets you add a new public speaker"
+   },
+   {
+         "s": "Add Congregation",
+         ".": "Title of a form where you can add a congregation. This is primarily used for exchanging public speakers"
+   },
+   {
+         "s": "Click here to view/edit with a comma-separated list",
+         ".": "When clicked, talks can be set for a speaker in bulk"
+   },
+   {
+         "s": "Talk numbers must be separated by a space, comma, and/or a new line",
+         ".": "Instructions on how to enter multiple talks for a speaker"
+   },
+   {
+         "s": "Must contain only numbers, spaces, and commas!",
+         ".": "A warning shown when the list of talks for a speaker is not in the correct format"
+   },
+   {
+         "s": "Talks for %(speaker)s",
+         ".": "Do not translate \"%(speaker)s\". It will be replaced by the name of the public speaker."
+   },
+   {
+         "s": "Some publishers are not available because they do not have a Label.",
+         ".": "Explanation that publishers without a label cannot be transferred from a congregation where E2E is enabled."
+   },
+   {
+         "s": "Chairman, Reader, Host",
+         ".": "Heading for chairman/reader/host for weekend meeting"
+   },
+   {
+         "s": "No talk has been scheduled",
+         ".": "Placeholder when no speaker has been scheduled"
+   },
+   {
+         "s": "Add outgoing talk",
+         ".": "Add an outgoing speaking assignment"
+   },
+   {
+         "s": "Delete outgoing talk",
+         ".": "Cancel an outgoing speaker's assignment"
+   },
+   {
+         "s": "No meeting should be scheduled this week",
+         ".": "Reminder not to schedule meetings on certain weeks (e.g. assembly/convention)"
+   },
+   {
+         "s": "Speakers",
+         ".": "Heading for speakers in my congregation"
+   },
+   {
+         "s": "Outgoing",
+         ".": "Heading for outgoing speakers"
+   },
+   {
+         "s": "Incoming",
+         ".": "Heading for incoming speakers"
+   },
+   {
+         "s": "Speaker Info",
+         ".": "Information about a public speaker"
+   },
+   {
+         "s": "Talk Mover",
+         ".": "Area where assigned talks can be moved to a new date"
+   },
+   {
+         "s": "Confirmed"
+   },
+   {
+         "s": "Move",
+         ".": "Moving a speaking assignment"
+   },
+   {
+         "s": "Move the assignments?",
+         ".": "Confirmation of moving a speaking assignment"
+   },
+   {
+         "s": "Swap",
+         ".": "Swapping a public speaker with another"
+   },
+   {
+         "s": "Replace",
+         ".": "replacing a public speaker with another"
+   },
+   {
+         "s": "Do you want to replace this assignment, or swap the assignments?",
+         ".": "Prompt to either replace or swap a speaking assignment"
+   },
+   {
+         "s": "%(name)s is already assigned to give talk #%(talk)s on this date.",
+         ".": "Leave the %()s placeholders as is and untranslated. This indicates that someone is already assigned to give a specific talk on a date."
+   },
+   {
+         "s": "Choose date to move talk to:",
+         ".": "When moving a scheduled talk, this prompts to select the new date"
+   },
+   {
+         "s": "Are you sure you want to replace the scheduled talk with \"To Be Determined\"?",
+         ".": "Confirmation of removing a scheduled talk for a tentative one"
+   },
+   {
+         "s": "Are you sure you want to clear the scheduled talk?",
+         ".": "Confirmation of removing a scheduled talk"
+   },
+   {
+         "s": "Speaker's Talk",
+         ".": "Label for the speaker's talk"
+   },
+   {
+         "s": "Speaker in this congregation",
+         ".": "Label for the speaker"
+   },
+   {
+         "s": "Talks given in this congregation",
+         ".": "Heading for talks given in a congregation"
+   },
+   {
+         "s": "Speakers who give this talk",
+         ".": "Heading for speakers who give a particular outline"
+   },
+   {
+         "s": "To Be Determined",
+         ".": "When a speaker is not yet scheduled for a given weekend meeting, the scheduling status is shown as this"
+   },
+   {
+         "s": "Are you sure you want to delete this event?"
+   },
+   {
+         "s": "Unable to save encryption key.",
+         ".": "Error when an encryption key cannot be saved"
+   },
+   {
+         "s": "Unable to create an encryption key.",
+         ".": "Error shown when an E2E key cannot be created"
+   },
+   {
+         "s": "Change Master Password",
+         ".": "Button that lets you change the congregation master password for E2E"
+   },
+   {
+         "s": "The label provides a way to identify a delegate or transfer when E2E Encryption is enabled. It is not encrypted and should not contain any personal information.",
+         ".": "Explains what the Label is for"
+   },
+   {
+         "s": "Label",
+         ".": "A label for a publisher. This is used only when E2E encryption is enabled and provides a way to distinguish between users. It is an identifier that is not personally identifiable."
+   },
+   {
+         "s": "The master password must be provided to anyone who will view personal information in Hourglass, including all administrators and group overseers.",
+         ".": "Additional explanation about the master password"
+   },
+   {
+         "s": "Delete reports for active publishers older than",
+         ".": "Heading for the selection of a month; reports for active publishers older than this month will be deleted."
+   },
+   {
+         "s": "Delete meeting attendance and monthly summaries older than",
+         ".": "Heading for the selection of a month; attendance and monthly summaries prior to this month will be deleted."
+   },
+   {
+         "s": "Cleaning",
+         ".": "Title of a page for creating cleaning/maintenance schedules"
+   },
+   {
+         "s": "Field Service Meeting",
+         ".": "Title of a page for setting up schedules for conducting field service meetings"
+   },
+   {
+         "s": "A/V & Attendant",
+         ".": "Menu item for Audio/Video and Attendant schedules"
+   },
+   {
+         "s": "Decline",
+         ".": "Button to decline an assignment"
+   },
+   {
+         "s": "Accept",
+         ".": "Button to accept an assignment"
+   },
+   {
+         "s": "Assignments",
+         ".": "Heading above a list of assignments"
+   },
+   {
+         "s": "Closing Prayer"
+   },
+   {
+         "s": "Opening Prayer"
+   },
+   {
+         "s": "Public Talk %@",
+         ".": "%@ will be replaced by the public talk number. This is shown when someone has an assignment to give a public talk."
+   },
+   {
+         "s": "Annual Meeting"
+   },
+   {
+         "s": "Memorial"
+   },
+   {
+         "s": "Regional Convention"
+   },
+   {
+         "s": "Circuit Assembly"
+   },
+   {
+         "s": "Circuit Overseer Visit"
+   },
+   {
+         "s": "Re-send",
+         ".": "Send an assignment notification again"
+   },
+   {
+         "s": "Assignee changed",
+         ".": "When the notification was sent to a different assignee"
+   },
+   {
+         "s": "Not sent",
+         ".": "When the notification of an assignment has not been sent"
+   },
+   {
+         "s": "Declined",
+         ".": "When the assignment has been declined"
+   },
+   {
+         "s": "Accepted",
+         ".": "When the assignment has been accepted"
+   },
+   {
+         "s": "Awaiting response",
+         ".": "When an assignment is waiting for someone to accept or decline it"
+   },
+   {
+         "s": "Send Assignments",
+         ".": "When someone has finished creating a schedule, clicking this will notify everyone about their assignments."
+   },
+   {
+         "s": "Meeting data for this month is not available. Please try again later.",
+         ".": "When we don't have the meeting workbook information yet, this message is displayed."
+   },
+   {
+         "s": "An assignment the week of %@ has been canceled.",
+         ".": "\"%@\" will be replaced with the date, so please leave it in the translated text."
+   },
+   {
+         "s": "Assignment",
+         ".": "Title of a notification that someone has a new assignment (could be a talk, chairman, attendant, etc.)"
+   },
+   {
+         "s": "You have an assignment the week of %@. Please accept or decline.",
+         ".": "Notification sent to someone when they receive a new assignment, such as a part on the midweek meeting, being an attendant, etc. NOTE: do not adjust \"%@\" because it will be replaced with a date."
+   },
+   {
+         "s": "Do not assign other part while Aux Chairman",
+         ".": "Setting that prevents someone from being assigned a midweek meeting part if they are an auxiliary classroom chairman"
+   },
+   {
+         "s": "Do not assign other part while Chairman",
+         ".": "Setting that prevents someone from being assigned a part on the midweek meeting if they are the chairman"
+   },
+   {
+         "s": "Do not assign other part while CBS Conductor",
+         ".": "Setting that prevents someone from being assigned another part on the midweek meeting if they are the Bible Study conductor."
+   },
+   {
+         "s": "Avoid multiple non-student parts on the same night",
+         ".": "Setting that avoids assigning someone multiple parts on the midweek meeting (enabled by default)"
+   },
+   {
+         "s": "Do not assign student part if assigned non-student part",
+         ".": "Setting that prevents someone from being assigned a student part at the midweek meeting if they have another part on the same meeting. (enabled by default)"
+   },
+   {
+         "s": "Do not auto-assign student parts",
+         ".": "Setting that prevents someone from being automatically assigned student parts at the midweek meeting"
+   },
+   {
+         "s": "Hospitality",
+         ".": "Privilege of providing hospitality for a visiting speaker"
+   },
+   {
+         "s": "Public Talks - Away",
+         ".": "Privilege of giving public talks in other congregations"
+   },
+   {
+         "s": "Public Talks",
+         ".": "Privilege of giving public talks"
+   },
+   {
+         "s": "Watchtower Reader",
+         ".": "Privilege of being a reader for the Watchtower study"
+   },
+   {
+         "s": "Attendant",
+         ".": "Privilege of being a meeting attendant"
+   },
+   {
+         "s": "Microphones",
+         ".": "Privilege of running microphones"
+   },
+   {
+         "s": "A/V Console",
+         ".": "Privilege of handling the audio and video console"
+   },
+   {
+         "s": "Stage",
+         ".": "Privilege of handling the stage - adjusting microphones, tables, etc."
+   },
+   {
+         "s": "Field Ministry Discussion",
+         ".": "field ministry discussion part on the midweek meeting"
+   },
+   {
+         "s": "Congregation Bible Study Reader",
+         ".": "Congregation Bible Study reader at the midweek meeting"
+   },
+   {
+         "s": "Bible Reading",
+         ".": "The bible reading part on the midweek meeting"
+   },
+   {
+         "s": "Other",
+         ".": "Section heading for other privileges. Includes things like microphones and attendant"
+   },
+   {
+         "s": "Local Needs",
+         ".": "Local Needs part on the midweek meeting"
+   },
+   {
+         "s": "Student Talk",
+         ".": "Student talk on the midweek meeting"
+   },
+   {
+         "s": "Bible Study",
+         ".": "Bible Study part on the midweek meeting"
+   },
+   {
+         "s": "Return Visit",
+         ".": "The Return Visit part on the midweek meeting"
+   },
+   {
+         "s": "Initial Call",
+         ".": "The Initial Call part on the midweek meeting"
+   },
+   {
+         "s": "Spiritual Gems",
+         ".": "Title of the Spiritual Gems part on the midweek meeting"
+   },
+   {
+         "s": "Assignment Slips",
+         ".": "A menu option to create S-89 assignment slips for midweek meeting students"
+   },
+   {
+         "s": "Reminders"
+   },
+   {
+         "s": "Schedule"
+   },
+   {
+         "s": "Scheduling Settings",
+         ".": "Title of the scheduling settings page"
+   },
+   {
+         "s": "Other speaker talk title",
+         ".": "Setting for the title of a special speaker's talk"
+   },
+   {
+         "s": "Other speaker congregation",
+         ".": "Setting for the congregation of a special speaker"
+   },
+   {
+         "s": "Other speaker name",
+         ".": "Setting for the name of a special speaker"
+   },
+   {
+         "s": "Circuit Overseer Public Talk Title",
+         ".": "Setting for the circuit overseer's public talk title"
+   },
+   {
+         "s": "Circuit Overseer name",
+         ".": "Setting for circuit overseer's name"
+   },
+   {
+         "s": "Talk Coordinator contact information",
+         ".": "Setting for public talk coordinator contact information"
+   },
+   {
+         "s": "Congregation display name",
+         ".": "Setting for the congregation display name"
+   },
+   {
+         "s": "Enable hospitality",
+         ".": "Setting indicating whether hospitality scheduling is enabled"
+   },
+   {
+         "s": "Attendant label",
+         ".": "Setting for labeling different attendant assignments"
+   },
+   {
+         "s": "Number of audio assignments",
+         ".": "Setting for how many audio console assignments to make"
+   },
+   {
+         "s": "Number of stage assignments",
+         ".": "Setting for how many stage assignments to make"
+   },
+   {
+         "s": "Number of attendant assignments",
+         ".": "Setting for how many attendants to schedule"
+   },
+   {
+         "s": "Number of microphone assignments",
+         ".": "Setting for how many microphone handlers to assign"
+   },
+   {
+         "s": "Number of classrooms",
+         ".": "A setting for how many classrooms there are when scheduling midweek student assignments"
+   },
+   {
+         "s": "This report cannot be created because meeting attendance figures have not been entered."
+   },
+   {
+         "s": "Edit",
+         ".": "To edit/change something"
+   },
+   {
+         "s": "Copy",
+         ".": "An action which copies something, such as copying an item into the clipboard"
+   },
+   {
+         "s": "Note to student: The source material and study point for your assignment can be found in the Life and Ministry Meeting Workbook. Please work on the listed study point, which is discussed in the Teaching brochure.",
+         ".": "Note to student at the bottom of the S-89 slip"
+   },
+   {
+         "s": "To be given in",
+         ".": "To be given in label on the S-89 slip"
+   },
+   {
+         "s": "Assignment",
+         ".": "The Assignment label on the S-89 slip"
+   },
+   {
+         "s": "OUR CHRISTIAN LIFE AND MINISTRY MEETING ASSIGNMENT",
+         ".": "Title of the S-89 midweek meeting student assignment slip"
+   },
+   {
+         "s": "Privileges",
+         ".": "Privileges control who can be given what parts and assignments"
+   },
+   {
+         "s": "Events",
+         ".": "Events are things like circuit assemblies or the circuit overseer visit"
+   },
+   {
+         "s": "Clear",
+         ".": "Remove an assignment for a meeting part"
+   },
+   {
+         "s": "Auto-Fill",
+         ".": "Automatically schedule meeting assignments"
+   },
+   {
+         "s": "Assistant",
+         ".": "Assistant/householder on a student part"
+   },
+   {
+         "s": "Circuit Overseer"
+   },
+   {
+         "s": "Non-Students",
+         ".": "Only non-student assignments"
+   },
+   {
+         "s": "Students",
+         ".": "Only student assignments"
+   },
+   {
+         "s": "All",
+         ".": "All items or assignments"
+   },
+   {
+         "s": "Aux. Chairman (3rd Classroom)",
+         ".": "Chairman for third classroom"
+   },
+   {
+         "s": "Aux. Chairman (2nd Classroom)",
+         ".": "Heading for 2nd classroom chairman"
+   },
+   {
+         "s": "Reader",
+         ".": "Reader, such as for the Watchtower Study or Congregation Bible Study"
+   },
+   {
+         "s": "Scheduling",
+         ".": "Main entry to show scheduling options"
+   },
+   {
+         "s": "Week",
+         ".": "A week, as in 7 days on a calendar"
+   },
+   {
+         "s": "Concluding Comments",
+         ".": "Concluding Comments on the midweek meeting"
+   },
+   {
+         "s": "Living as Christians",
+         ".": "This should be exactly what appears in the meeting workbook for the midweek meeting section \"living as christians\""
+   },
+   {
+         "s": "Apply Yourself to the Field Ministry",
+         ".": "This should be exactly what appears in the meeting workbook for the midweek meeting section \"apply yourself to the field ministry\""
+   },
+   {
+         "s": "Treasures From God's Word",
+         ".": "This should be exactly what appears in the meeting workbook for the midweek meeting section \"treasures from god's word\""
+   },
+   {
+         "s": "Main Hall",
+         ".": "Main Hall column for student parts on the midweek meeting schedule"
+   },
+   {
+         "s": "Aux. Classroom",
+         ".": "Heading on the midweek meeting schedule for students in the auxiliary classroom"
+   },
+   {
+         "s": "Opening Comments",
+         ".": "Midweek Meeting opening comments as shown on the schedule"
+   },
+   {
+         "s": "Song %d",
+         ".": "Song with a number. The %d must remain in the translated text. It will be replaced with the song number."
+   },
+   {
+         "s": "Prayer"
+   },
+   {
+         "s": "Chairman",
+         ".": "Meeting Chairman for a midweek or weekend meeting"
+   },
+   {
+         "s": "Are you sure you want to cancel this transfer? If you have provided the code to another congregation, cancelling the transfer prevents them from receiving these publishers.",
+         ".": "Confirmation message before deleting a publisher transfer"
+   },
+   {
+         "s": "The transfer code is invalid. Please contact the sending congregation.",
+         ".": "When an invalid transfer code is entered, this is shown."
+   },
+   {
+         "s": "E2E encryption is now enabled. Ensure you have safeguarded the Master Password and that other Elders know it. Next, visit the E2E Migration page to encrypt your existing Hourglass data.",
+         ".": "Message shown when E2E is first enabled"
+   },
+   {
+         "s": "Your congregation has enabled end-to-end encryption in Hourglass. From this point forward, you must always know and protect your master password. If you lose it, the data it protects will be gone forever and cannot be recovered.",
+         ".": "An email sent to all users who will need the congregation master password when E2E is enabled"
+   },
+   {
+         "s": "By enabling E2E encryption, you acknowledge that you are responsible for protecting the security of the master password, and ensuring that it is never lost. If you lose the master password, your data will not be recoverable.",
+         ".": "Displayed when enabling E2E"
+   },
+   {
+         "s": "Enable E2E Encryption",
+         ".": "A button which enables E2E"
+   },
+   {
+         "s": "Exactly what information is encrypted? All fields related to addresses and emergency contacts are subject to E2E encryption. The following fields for individuals are encrypted: first, last, and middle name, suffix, pioneer number, birth and baptism dates, email address, all phone numbers, and comments. Note that the email address used to sign in to Hourglass cannot be encrypted."
+   },
+   {
+         "s": "E2E encryption is a powerful feature. It provides an extremely high degree of data privacy: no personal data is ever stored anywhere, only unreadable ciphertext is saved, which can only be read with your congregation's master key. Not only do you need to authenticate with Hourglass to even obtain the encrypted key, you also require the master password to decrypt it. As a result of this, many features which once were implemented on the server side of Hourglass have been moved to the client, including generating PDF and CSV files and sending invitation emails, because the server has no access to the information required to complete these operations."
+   },
+   {
+         "s": "From this point on, whenever any personal information needs to be saved, it is first encrypted locally on your device using the master key, before being transmitted. Whenever anything is received, it's decrypted locally on your device. Whenever you log in with your browser or launch Hourglass on a mobile device, you'll be prompted to enter the master password. Without the correct master password, the master key cannot be obtained, and none of the information is readable."
+   },
+   {
+         "s": "The rest of this help topic contains technical details about how E2E encryption works. When enabling E2E encryption for the first time, your browser (using the SubtleCrypto APIs) generates a master key for your congregation. This key is never transmitted anywhere. You are prompted to enter a master password, which is used as input to a key derivation function, and the resulting key is used to encrypt the master key. The encrypted (wrapped) key, which is useless without your master password, is then saved in Hourglass."
+   },
+   {
+         "s": "To enable E2E encryption, go to the congregation profile and click the button. You'll be prompted to confirm that you understand the responsibility to safeguard the master password. Losing the master password is equivalent to deleting permanently all personal information for everyone in your congregation. At least two Elders, if not more, should always have administrator access to Hourglass and know the master password. Once enabled, you can go to the E2E Encryption item on the Congregation menu, which will allow you to encrypt all the existing personal information for your congregation. Any new information you add or change will automatically be E2E encrypted."
+   },
+   {
+         "s": "Once you enable E2E encryption, this personal information is no longer readable by anyone without your congregation's master password. If your password is lost, there will be no way to recover the information. By adding a Label to a publisher, you can use the delegates and transfer features. Since the personal name of the publisher will not be known in these cases, the label will be shown instead. Thus, the label must not contain any personal information."
+   },
+   {
+         "s": "End-to-End (E2E) encryption is an advanced feature. While all information in Hourglass is always encrypted in transit and at rest, E2E encryption adds another layer of security by ensuring that personal information, such as names, birth dates, addresses, phone numbers, etc. is encrypted with a key that only authorized congregation members are able to obtain. Hourglass servers and administrators have no ability to decipher this information."
+   },
+   {
+         "s": "End-to-End Encryption"
+   },
+   {
+         "s": "E2E Encryption",
+         ".": "Navigation menu entry for E2E Encryption"
+   },
+   {
+         "s": "When the progress bars are full, all personal data is E2E encrypted. This can take several minutes to complete. Please review the help topic on E2E encryption for more information.",
+         ".": "Explains what the E2E migration page is for. Displayed beneath the heading"
+   },
+   {
+         "s": "Encrypt Personal Data",
+         ".": "Heading for the E2E migration page"
+   },
+   {
+         "s": "Congregation Master Password",
+         ".": "Label used to describe the end-to-end encryption master password for the congregation"
+   },
+   {
+         "s": "This congregation is already registered. Please ask the Elders if anyone knows who registered it, and if so, contact them. If nobody knows, you can send a message to all current administrators. Be cautious with what you include in the message, since you do not know to whom it will be sent.",
+         ".": "If someone tries to register a new congregation, but it's already registered, this message is shown."
+   },
+   {
+         "s": "Congregation Share from jw.org",
+         ".": "Heading of the input area where the congregation share text from jw.org is entered. This is found by searching for a meeting, finding the congregation, and selecting the \"Share\" option."
+   },
+   {
+         "s": "Select a sign in method.",
+         ".": "An error shown when someone tries to register without selecting a sign in method"
+   },
+   {
+         "s": "Email and Password",
+         ".": "The option for someone to use an email address and password instead of google sign in when registering a new congregation"
+   },
+   {
+         "s": "Let's set up your login information. We recommend using Google Sign In, but you can use any email address.",
+         ".": "Shown when someone is selecting their login method during sign up"
+   },
+   {
+         "s": "A congregation can only sign up once. Contact an administrator in your congregation to request access.",
+         ".": "If someone is signing up, and they indicate that their congregation is already using hourglass, this message is shown."
+   },
+   {
+         "s": "Hi, Someone is trying to sign up for Hourglass, but the congregation is already registered and you are one of the administrators. The individual has included the following message. Please be cautious with this message; there is no way to know who sent it.",
+         ".": "When someone tries to register a congregation that's already signed up, they will be provided the option to send a message to the current administrators."
+   },
+   {
+         "s": "Someone requested an Hourglass password reset for this email address, but the address is not currently used to sign in to Hourglass. If you made this request, please contact a congregation administrator for assistance."
+   },
+   {
+         "s": "Your credentials used to sign in to Hourglass have just changed. If you did not make this change, contact a congregation administrator immediately.",
+         ".": "This is the text of an email sent any time someone changes their email address, password, or login method."
+   },
+   {
+         "s": "The address used to sign into Hourglass using a web browser",
+         ".": "This explains what the authentication information represents"
+   },
+   {
+         "s": "Cancel Deletion",
+         ".": "An option to cancel the pending deletion of the congregation"
+   },
+   {
+         "s": "Enter your congregation number to confirm:",
+         ".": "Prompt to enter the congregation number as confirmation for deletion"
+   },
+   {
+         "s": "This will permanently delete all data related to your congregation. An email will be sent to the other administrators in your congregation informing them of this action. It will take effect between 12 and 48 hours from when you confirm.",
+         ".": "Details and confirmation for deleting the entire congregation"
+   },
+   {
+         "s": "All data pertaining to your congregation in Hourglass is scheduled for permanent deletion! It will be removed forever, with no ability to recover, within the next 24 hours. To cancel this action, visit the Congregation Profile.",
+         ".": "A warning appearing when the congregation data is going to be deleted"
+   },
+   {
+         "s": "Is anyone in your congregation already using Hourglass?",
+         ".": "Initial question to be shown on the registration page. Registration is only for first-time setup for a congregation."
+   },
+   {
+         "s": "Unknown error trying to delete the user.",
+         ".": "When we encounter an unknown error trying to delete a user"
+   },
+   {
+         "s": "You cannot delete a user that is part of a pending transfer. You need to wait for the other congregation to finalize the transfer.",
+         ".": "Error message when trying to delete a user who is part of a transfer that is not yet completed"
+   },
+   {
+         "s": "You cannot delete a group overseer.",
+         ".": "Error message when trying to delete a service group overseer"
+   },
+   {
+         "s": "You cannot delete an administrator if doing so would leave you with fewer than two administrators.",
+         ".": "Error message when trying to delete one of only two administrators in a congregation"
+   },
+   {
+         "s": "You cannot delete yourself.",
+         ".": "Error description when the user tries to delete themselves."
+   },
+   {
+         "s": "We are missing one or more required items: congregation members, service groups, and service reports. Click on the check boxes indicated in the screen shot above.",
+         ".": "An error message displayed when the KHS exchange file does not contain the required information."
+   },
+   {
+         "s": "Other"
+   },
+   {
+         "s": "Other Phone",
+         ".": "label for another phone number for a publisher"
+   },
+   {
+         "s": "Export your KHS data to CSV"
+   },
+   {
+         "s": "Average Weekend Meeting Attendance",
+         ".": "Shown on the monthly summary page. It should be the same text as shown when entering the average weekend meeting attendance on jw.org."
+   },
+   {
+         "s": "Maximum Credits",
+         ".": "Label for a selection of maximum credit hours (75 or 70)"
+   },
+   {
+         "s": "Check here to delete old reports and attendance figures, based on direction for records retention in your Branch.",
+         ".": "This text appears next to a checkbox when confirming the submission of the monthly summary. If checked, the indicated records older than the months selected will be deleted."
+   },
+   {
+         "s": "Documents",
+         ".": "Appears in the navigation bar, next to Congregation, when there are pending or available documents to download, such as S-21 record cards"
+   },
+   {
+         "s": "Average Attendance Each Month",
+         ".": "The last row of the S-88 form"
+   },
+   {
+         "s": "Average",
+         ".": "The row on the 12/18 S-21 form for Average"
+   },
+   {
+         "s": "Other sheep",
+         ".": "On the S-21, this is the title of the check box indicating the publisher is of the other sheep."
+   },
+   {
+         "s": "You've already started using Hourglass by marking at least one month as submitted to the Branch. You cannot import any longer.",
+         ".": "An error message when someone who's already been using Hourglass tries to do an import."
+   },
+   {
+         "s": "You have manually marked the reports of many publishers as submitted. This is probably the wrong thing to do.  Marking an individual report submitted is used to enter historical information that has already been sent to the Branch.  Do not use this for a current month.  If you are having difficulty with marking a month submitted from the month summary, read the warning on that page, and contact support if necessary.",
+         ".": "This is a warning message that is shown when an administrator manually marks the reports of many publishers as submitted. In almost all cases this is not something we want them to do. The warning message is meant to alert them that they are likely using the system incorrectly."
+   },
+   {
+         "s": "Your congregation has not yet clicked the Submitted to Branch button on the monthly summary report, and it is now overdue for one or more past months.  Please resolve this as soon as possible, as it will affect your reports going forward.",
+         ".": "this message appears when the congregation has forgotten to submit their report in Hourglass."
+   },
+   {
+         "s": "The date when the publisher gave consent for their personal information to be collected by the congregation.",
+         ".": "Help text that explains what the pii-consent-date field is used for."
+   },
+   {
+         "s": "Personal Information Consent",
+         ".": "This is the heading for the field where a date can be entered that indicates when consent was received from the publisher for their personal information (name, date of birth, address, etc.) to be collected by the congregation."
+   },
+   {
+         "s": "When a transfer is completed, any permissions that the publisher had in the sending congregation are removed. If they require them in the new congregation, an administrator will need to set them. They will also need to be placed into a field service group. If they were a group overseer or servant in their former congregation, all of the publishers in that group will need to be placed into a new one."
+   },
+   {
+         "s": "There are two steps to a transfer. First, the sending congregation creates a new transfer and includes all the publishers moving together. This will generate an 8-digit transfer code, such as AAAA-1111. Next, the sending congregation contacts the receiving congregation and provides them with the transfer code. The receiving congregation enters the code, and can then complete the transfer."
+   },
+   {
+         "s": "When congregations are merged or split, or publishers move, they can be transferred between two congregations which are both using Hourglass."
+   },
+   {
+         "s": "Transferring Publishers Between Congregations",
+         ".": "Title of the help page on publisher transfers"
+   },
+   {
+         "s": "Complete Transfer",
+         ".": "button that completes an incoming transfer"
+   },
+   {
+         "s": "Create"
+   },
+   {
+         "s": "Completed Transfers",
+         ".": "heading for a list of completed publisher transfers"
+   },
+   {
+         "s": "Transfer",
+         ".": "menu item for the publisher transfer page"
+   },
+   {
+         "s": "Transferring",
+         ".": "This is a heading for the list of publishers that will be transferred from the sending congregation"
+   },
+   {
+         "s": "Send Publishers",
+         ".": "button when a congregation wants to initiate a transfer"
+   },
+   {
+         "s": "Receive Publishers",
+         ".": "a button that can be pressed to begin the process of receiving publishers through a transfer"
+   },
+   {
+         "s": "Receiving Congregation"
+   },
+   {
+         "s": "Sending Congregation"
+   },
+   {
+         "s": "Code"
+   },
+   {
+         "s": "Active Transfers"
+   },
+   {
+         "s": "There was an error performing the transfer operation. Please try again or contact support.",
+         ".": "this error message is shown when the user tries to perform a publisher transfer action, but it fails"
+   },
+   {
+         "s": "Are you sure? This will remove the Submitted to Branch record and undo the submitted status for all reports that were submitted in this month.",
+         ".": "This is shown in the popup to confirm that the user really wants to undo the submitted to branch status of a month."
+   },
+   {
+         "s": "Undo Submitted",
+         ".": "If Submitted to Branch has been processed, but the user realizes they need to undo this for a month, this option allows that."
+   },
+   {
+         "s": "Please scroll up and click OPEN to view this link in the app.",
+         ".": "when someone visits the web link that should open in the native app via universal links"
+   },
+   {
+         "s": "Regular & Special Pioneers",
+         ".": "The heading for when regular and special pioneer totals are together (such as the summary S-21)"
+   },
+   {
+         "s": "Certain publishers may report their time to the Branch directly, even though they are not in special full-time service. This option excludes their reports from being included in the monthly summary.",
+         ".": "Help popup for the reports-to-branch option"
+   },
+   {
+         "s": "Reports Directly to Branch",
+         ".": "Some publishers, who are not special pioneers or missionaries, submit their reports directly to the Branch.  An example is certain construction servants. This option indicates that status for the publisher."
+   },
+   {
+         "s": "Options",
+         ".": "Tab that shows additional options for a publisher"
+   },
+   {
+         "s": "Reason",
+         ".": "the reason why someone is not a publisher"
+   },
+   {
+         "s": "Date",
+         ".": "The date something happened"
+   },
+   {
+         "s": "Other",
+         ".": "When someone is no longer publishing for another reason (besides moved or disfellowshipped)"
+   },
+   {
+         "s": "Moved",
+         ".": "When someone is no longer publishing because they moved to another congregation"
+   },
+   {
+         "s": "Disfellowshipped",
+         ".": "When someone is no longer publishing because they are disfellowshipped"
+   },
+   {
+         "s": "Show Contact Info",
+         ".": "A checkbox indicating whether contact information will be shown for those with missing reports. If checked, their email address, home, and/or cell phone will be shown right on the missing report."
+   },
+   {
+         "s": "Labels Only",
+         ".": "Checkbox option in the Publishers, Record Cards dialog box. It indicates that only labels will be produced, not the entire S-21."
+   },
+   {
+         "s": "Download in TSWIN CSV format",
+         ".": "Option on the month detail report to download in TSWIN CSV format"
+   },
+   {
+         "s": "Advance Directive",
+         ".": "Checkbox that indicates if the congregation has an advance medical directive on file for this publisher"
+   },
+   {
+         "s": "The number of different publishers who have auxiliary pioneered since the selected month.",
+         ".": "Help tooltip that explains the meaning of Different Auxiliary Pioneers"
+   },
+   {
+         "s": "Different Auxiliary Pioneers",
+         ".": "On the Statistics report, this row shows how many different publishers have auxiliary pioneered from the selected month until now"
+   },
+   {
+         "s": "Not Appointed",
+         ".": "A brother who is not appointed as an Elder or MS"
+   },
+   {
+         "s": "Service Year",
+         ".": "Service Year"
+   },
+   {
+         "s": "6 Months",
+         ".": "Column that shows averages for the past 6 months in the statistics report"
+   },
+   {
+         "s": "3 Months",
+         ".": "Column that shows averages for the past 3 months in the Statistics report"
+   },
+   {
+         "s": "Continuous Auxiliary Pioneers",
+         ".": "Entry in the statistics report for the number of continuous auxiliary pioneers in the congregation"
+   },
+   {
+         "s": "Ministerial Servants",
+         ".": "Statistics report entry for the number of ministerial servants in the congregation"
+   },
+   {
+         "s": "Elders",
+         ".": "Statistics report item for the number of elders in the congregation"
+   },
+   {
+         "s": "Publisher Age",
+         ".": "The title of the chart on the Statistics report that shows the ages of the publishers"
+   },
+   {
+         "s": "Years Baptized",
+         ".": "The title of the chart on the Statistics report that shows the number of years the publishers in the congregation have been baptized"
+   },
+   {
+         "s": "Unbaptized publishers",
+         ".": "Unbaptized publishers"
+   },
+   {
+         "s": "Baptized publishers",
+         ".": "Baptized publishers"
+   },
+   {
+         "s": "Irregular publishers",
+         ".": "Irregular publishers (missing one or more reports in the last 6 months)"
+   },
+   {
+         "s": "Regular publishers",
+         ".": "Regular publishers (those who have a report for each of the last 6 months)"
+   },
+   {
+         "s": "Statistics",
+         ".": "The monthly statistics report menu option"
+   },
+   {
+         "s": "How many hours the pioneer still needs for the rest of the service year to meet the requirement.",
+         ".": "Help tooltip for regular pioneer hours remaining"
+   },
+   {
+         "s": "How far ahead/behind the pioneer is at this time.",
+         ".": "Help tooltip for regular pioneer difference column"
+   },
+   {
+         "s": "How many hours the pioneer actually has reported, including credits, so far.",
+         ".": "Help tooltip for actual hours in the regular pioneer report"
+   },
+   {
+         "s": "How many hours the pioneer should have at this point in the service year.",
+         ".": "Help tooltip for the Hour Quota column on the regular pioneer report."
+   },
+   {
+         "s": "Hours Needed",
+         ".": "Column on the regular pioneer report that shows how many hours are needed to meet the quota for the service year"
+   },
+   {
+         "s": "Start Month",
+         ".": "The column in the regular pioneer report that lists the start date of regular pioneer service"
+   },
+   {
+         "s": "Total",
+         ".": "S-88 total row"
+   },
+   {
+         "s": "Average\nAttendance\nEach Week",
+         ".": "Table heading for the average weekly attendance on the S-88. Use enter to make a new line and place each word on the correct line."
+   },
+   {
+         "s": "Total\nAttendance",
+         ".": "Table heading for total monthly attendance on the S-88. Place each word on the correct line, using enter to create a new line"
+   },
+   {
+         "s": "Number of\nMeetings",
+         ".": "Table heading for number of meetings on the S-88 form. Place each word on the line it appears on the S-88"
+   },
+   {
+         "s": "Service Year",
+         ".": "Table heading for the service year on the S-88 form"
+   },
+   {
+         "s": "S-88-E",
+         ".": "Form ID of the S-88"
+   },
+   {
+         "s": "CONGREGATION MEETING ATTENDANCE RECORD",
+         ".": "Title of the S-88 form. It should be capitalized as it is on the S-88 from the Branch."
+   },
+   {
+         "s": "Are you sure you want to delete this attendance group?  All attendance figures will be removed permanently!",
+         ".": "Instructions regarding deleting an attendance group. Displayed when confirming the deletion."
+   },
+   {
+         "s": "Delete Attendance Group",
+         ".": "Title of popup that asks for confirmation before deleting an attendance group"
+   },
+   {
+         "s": "Delete Group",
+         ".": "Button to delete an attendance group"
+   },
+   {
+         "s": "Create Group",
+         ".": "A button that allows a new attendance group to be created (e.g. to track attendance of a foreign language group separately from the main congregation)"
+   },
+   {
+         "s": "Immediately",
+         ".": "When Touch ID is required on the iOS app, the user can select how quickly they want Touch ID to be required when the app is no longer in the foreground. This selection requires it immediately."
+   },
+   {
+         "s": "There are no Auxiliary Pioneers to display.",
+         ".": "When there are no auxiliary pioneers to display"
+   },
+   {
+         "s": "The minimum supported version of TSWIN is 7.0.5.2. Please upgrade TSWIN and create a new export.",
+         ".": "Error message displayed when the TSWIN version is less than the minimum required."
+   },
+   {
+         "s": "Donate",
+         ".": "The Donate button. When clicked, it reveals two options: PayPal and Bitcoin"
+   },
+   {
+         "s": "Quota",
+         ".": "Field where the regular pioneer's monthly hour quota can be selected. This appears only when the publisher's Status is set to Regular Pioneer."
+   },
+   {
+         "s": "There are no Regular Pioneers in your congregation.",
+         ".": "When the Regular Pioneer progress report is selected, but there are no regular pioneers to show information about, this text is displayed."
+   },
+   {
+         "s": "Biometric ID is required to use Hourglass, but is no longer available on your device.",
+         ".": "When Touch ID has been set to required, but the device no longer has the ability to perform Touch ID"
+   },
+   {
+         "s": "Settings",
+         ".": "The title of the Settings view"
+   },
+   {
+         "s": "Require Biometric ID",
+         ".": "This is a setting in the app. When it's enabled, Touch ID/Face ID is required to unlock Hourglass."
+   },
+   {
+         "s": "Unlock Hourglass",
+         ".": "When the user is prompted for Biometric authentication, this short message appears"
+   },
+   {
+         "s": "The Congregation View All permission permits the viewing of everything in Hourglass: all information and reports. It allows updating contact information and emergency contacts for anyone in the same group as this brother. If the brother is the overseer of a group, it also allows him to enter reports for those in the group.",
+         ".": "Documentation about the Congregation View All permission"
+   },
+   {
+         "s": "The link used to reset your password has expired.",
+         ".": "If the forgotten password link has an invalid code, this is shown."
+   },
+   {
+         "s": "Special Pioneers",
+         ".": "Indicates a summary row or heading for special pioneers"
+   },
+   {
+         "s": "This summary of special full-time servant activity is shown for informational purposes only. It is not reported to the Branch.",
+         ".": "This is shown above the monthly summary of special pioneer activity."
+   },
+   {
+         "s": "Download the CPF Import Tool",
+         ".": "The button to download the CPF import tool"
+   },
+   {
+         "s": "Active",
+         ".": "Indicates that the publisher is active"
+   },
+   {
+         "s": "Arrange by group",
+         ".": "An option on the monthly detail report. It provides the option of arranging the report by field service groups."
+   },
+   {
+         "s": "Irregular",
+         ".": "Denotes a publisher who is irregular (has one or more months in the last 6 months without activity, but is not inactive)"
+   },
+   {
+         "s": "SERVICE YEAR:",
+         ".": "On the S-21 dated 10/15, this appears above the list of months. It indicates the service year recorded on the form. Because this column on the 10/15 form is wider, the text may be different."
+   },
+   {
+         "s": "Delete",
+         ".": "Usually a menu item or option to delete something"
+   },
+   {
+         "s": "Reminders last sent:",
+         ".": "After this text is the date and time of when reminders were last sent to everyone in the congregation"
+   },
+   {
+         "s": "Congregation View All",
+         ".": "Permission that allows the user to see everything but not change anything"
+   },
+   {
+         "s": "By default, all publishers share the language of the Congregation.  This allows you to change the language for a single publisher, so that emails and web pages will be shown to them in the selected language.",
+         ".": "Help when hovering over the ? logo next to language on the publisher page"
+   },
+   {
+         "s": "Download as CSV",
+         ".": "Help tooltip popup for downloading the monthly detail as a file"
+   },
+   {
+         "s": "Including Credit Hours:",
+         ".": "Shows when the * is hovered over. The number of credit hours is shown right after this text"
+   },
+   {
+         "s": "When this publisher first reported time. Prior months will not be considered missing.",
+         ".": "This shows when the mouse is hovered over the Help logo (?) next to First Month"
+   },
+   {
+         "s": "Group",
+         ".": "Label for the area where the group overseer's name is shown in the publisher details"
+   },
+   {
+         "s": "Create your Hourglass password",
+         ".": "Tells the user to create a new Hourglass password when they're registering without a Google account"
+   },
+   {
+         "s": "I am a member of the Congregation Service Committee, or have been authorized by them to sign up for Hourglass.",
+         ".": "Checkbox where the user confirms they are authorized to sign up for Hourglass by the congregation service committee."
+   },
+   {
+         "s": "This congregation number is already registered in Hourglass.  If you have an issue accessing your existing registration, please email support@hourglass-app.com.",
+         ".": "If someone is registering a congregation number that's already been registered, this warning appears"
+   },
+   {
+         "s": "Congregation Number",
+         ".": "Where the congregation number is entered"
+   },
+   {
+         "s": "Step 2: Congregation"
+   },
+   {
+         "s": "Last Name"
+   },
+   {
+         "s": "First Name",
+         ".": "Where the user's first name is entered on the registration page"
+   },
+   {
+         "s": "Click here.",
+         ".": "The text of the link that has to be clicked to bypass using a Google account"
+   },
+   {
+         "s": "Don't have a Google account, or don't want to use it?",
+         ".": "Right after this question is the \"click here\" link that allows the user to bypass using their Google account"
+   },
+   {
+         "s": "Google login successful.",
+         ".": "Shown when Google sign-in is successful"
+   },
+   {
+         "s": "Step 1: You",
+         ".": "Heading above the first set of input fields, which are about the individual who is signing up (their name, email address, etc.)"
+   },
+   {
+         "s": "For Congregation Secretaries"
+   },
+   {
+         "s": "Hourglass Sign Up",
+         ".": "Main heading on the regsitration/sign up page"
+   },
+   {
+         "s": "Error: There was an unknown error connecting your Google account.",
+         ".": "Error message shown when there is an error connecting the Google account"
+   },
+   {
+         "s": "Thank you, an email has been sent to the address you provided with instructions on activating your account.",
+         ".": "A success message indicating that the validation email has been sent."
+   },
+   {
+         "s": "Your Google profile does not indicate your gender is Male.",
+         ".": "If the google profile of the user doesn't indicate that the gender is Male, this error is shown."
+   },
+   {
+         "s": "Sorry, we are unable to send an email to that address at this time.  If this email address belongs to you, please let us know.",
+         ".": "If the attempt to send a validation email failed, this error is shown."
+   },
+   {
+         "s": "Click here to sign in.",
+         ".": "If the email address is already registered, this text is a clickable link to the sign in page."
+   },
+   {
+         "s": "That email address is already registered with Hourglass.",
+         ".": "If the user is already signing in to Hourglass with the email address they provided on the registration page, this tells them that they're already registered."
+   },
+   {
+         "s": "Welcome to Hourglass. Please click here to finalize your Hourglass registration and log in:",
+         ".": "Short, text-only email body for validating email address"
+   },
+   {
+         "s": "Complete Registration",
+         ".": "This button is at the end of the email. It allows the person who registered to finalize the registration because they have confirmed access to the email address they used to sign up."
+   },
+   {
+         "s": "Please click the button below to finalize your Hourglass registration and log in."
+   },
+   {
+         "s": "Welcome to Hourglass"
+   },
+   {
+         "s": "This is a reminder: it is the 20th of the month and your Congregation's monthly field service report has not yet been marked as submitted in Hourglass. You can log in by clicking below."
+   },
+   {
+         "s": "Please submit your report for %(monthyear)s"
+   },
+   {
+         "s": "Your Congregation has not yet marked its monthly summary report as submitted in Hourglass. Log in here: %(link)s",
+         ".": "Text version of the submit reminder email. Leave the placeholder in the text; it will become a link to Hourglass"
+   },
+   {
+         "s": "Congregation Field Service Report for %(monthyear)s",
+         ".": "Subject line of the email reminding admins to mark reports as submitted. This email is sent on the 20th of the month if the reports have not been marked as submitted.  The placeholder needs to be left in the translated text."
+   },
+   {
+         "s": "The one-year anniversary of baptism is approaching for %(pubcount)d publisher(s) in your congregation.",
+         ".": "Text-only version of the baptism reminder email. %(pubcount)d is a placeholder for the number of publishers; leave it in."
+   },
+   {
+         "s": "Baptism Reminder"
+   },
+   {
+         "s": "Baptized %(baptismdate)s",
+         ".": "The placeholder will be replaced with the date of the user's baptism"
+   },
+   {
+         "s": "The 1 year anniversary of baptism is approaching for the following publisher(s):"
+   },
+   {
+         "s": "Your Congregation's profile in Hourglass is inactive.",
+         ".": "Short text-only body of the email when a congregation hasn't been logged into for a long time"
+   },
+   {
+         "s": "Hourglass Registration",
+         ".": "Subject of the email when a congregation hasn't been logged into for a long time"
+   },
+   {
+         "s": "To log in, you can click the button below."
+   },
+   {
+         "s": "If you're having a problem using Hourglass, or it's not working for you, please let us know some details by replying to this message."
+   },
+   {
+         "s": "We've missed you.  No administrator has logged into your Congregation, %(congname)s since %(lastlogin)s.",
+         ".": "Keep the congname and lastlogin placholders as they are"
+   },
+   {
+         "s": "Still Using Hourglass?",
+         ".": "If no administrators have logged into the congregation for a long time, this email asks them how it's going. This text is the heading in the message"
+   },
+   {
+         "s": "Privacy Policy",
+         ".": "Link to the privacy policy"
+   },
+   {
+         "s": "Localization powered by",
+         ".": "A link to Loco (this translation system) appears right after this text"
+   },
+   {
+         "s": "CONTACT"
+   },
+   {
+         "s": "At this time, donations have covered the anticipated costs for the remainder of the service year, so additional donations are not being accepted."
+   },
+   {
+         "s": "Donations are very much appreciated."
+   },
+   {
+         "s": "There is no payment required to use Hourglass, but it costs money each month to make it available."
+   },
+   {
+         "s": "Cost"
+   },
+   {
+         "s": "If you'd like to help translate, please contact us using the information below."
+   },
+   {
+         "s": "What languages are supported?"
+   },
+   {
+         "s": "Sign in with a Google account that has two-factor authentication turned on."
+   },
+   {
+         "s": "What's the most secure way for me to log in?"
+   },
+   {
+         "s": "Questions and Answers"
+   },
+   {
+         "s": "Hourglass can import your data from KHS, NW Scheduler, or TSWIN."
+   },
+   {
+         "s": "Hourglass keeps track of field service groups and organizes many reports by them.  It also allows you to enter your meeting attendance for each month and generate an S-88 PDF."
+   },
+   {
+         "s": "Reports include missing time, a monthly summary (on which you indicate what has been submitted to the Branch, so that your reports are accurate), and a detailed monthly report, which includes the full report of each individual.  There are also Congregation, Publisher, and Group average reports, Regular Pioneer progress, and the annual Congregation Analysis report."
+   },
+   {
+         "s": "You can generate a PDF of S-21 Publisher Record Cards, for one publisher or for the entire Congregation. The S-21 totals for each publisher type is also generated."
+   },
+   {
+         "s": "Emergency/disaster contacts can be maintained for each publisher."
+   },
+   {
+         "s": "Congregation administrators can view and update reports for all publishers in their Congregation, as well as send them invites, right from the mobile app."
+   },
+   {
+         "s": "The delegates feature allows one publisher to submit reports for another (such as a parent for their child)."
+   },
+   {
+         "s": "Hourglass allows members of your Congregation to receive an invitation and then enter their own field service reports through a web browser, iOS or Android app.  Publishers can be sent reminders to turn in their time through email or push notifications."
+   },
+   {
+         "s": "Features"
+   },
+   {
+         "s": "Security was not an afterthought when building Hourglass.  All communication to and from the Hourglass application is encrypted, as is all data at rest.  The systems are hosted in a redundant environment dedicated to Hourglass and are regularly backed up."
+   },
+   {
+         "s": "Security"
+   },
+   {
+         "s": "HOURGLASS DETAILS"
+   },
+   {
+         "s": "More information"
+   },
+   {
+         "s": "What else can Hourglass do? Is it secure?"
+   },
+   {
+         "s": "DETAILS"
+   },
+   {
+         "s": "See detailed service reports and Regular Pioneer progress at any time."
+   },
+   {
+         "s": "Other Reports"
+   },
+   {
+         "s": "Compile the monthly report for the Branch instantly."
+   },
+   {
+         "s": "MONTHLY REPORT"
+   },
+   {
+         "s": "Publishers electronically submit reports from their mobile phones. Notifications can be sent as a reminder."
+   },
+   {
+         "s": "Information from Publisher Record Cards is stored electronically for easy access and updating."
+   },
+   {
+         "s": "Electronic Cards"
+   },
+   {
+         "s": "It's for congregation secretaries of Jehovah's Witnesses."
+   },
+   {
+         "s": "What is Hourglass?"
+   },
+   {
+         "s": "Donate with Bitcoin",
+         ".": "Button that allows donations to be made via Bitcoin"
+   },
+   {
+         "s": "Hourglass is for congregations of Jehovah's Witnesses"
+   },
+   {
+         "s": "hourglass,secretary,secretaries,jehovah,witness,witnesses,jehovah's witness, jehovah's witnesses,JW,congregation,congregations,publisher,publishers,time,reports,life,ministry,schedule,scheduling,carts,public witnessing,clam,public talks,midweek meeting,weekend meeting,cleaning",
+         ".": "Keywords for search engines. Each keyword is separated by a comma"
+   },
+   {
+         "s": "Hourglass - For a Congregation Secretary of Jehovah's Witnesses",
+         ".": "Title of the www.hourglass-app.com page"
+   },
+   {
+         "s": "As the Secretary, or someone assisting him, what should be done each month to get the most out of Hourglass? A few simple steps will help:"
+   },
+   {
+         "s": "**Send reminders.** At the beginning of the month, go to the *Publishers* menu and click *Send Reminders*. This will send push notifications to everyone in your congregation who has linked Hourglass on their mobile device, and emails to those using a web browser. They will be reminded to turn in their report.",
+         ".": "Keep the ** as this emphasizes the word that it surrounds"
+   },
+   {
+         "s": "**Input paper reports.** Some publishers will likely still turn in reports on the S-4 form. They may not have a computer or smartphone, or may not feel comfortable turning in their report in that way. So, take the paper reports and enter them for each publisher."
+   },
+   {
+         "s": "**Monitor missing reports**. Let the group overseers know what time is missing for those in their group. You could provide them access to Hourglass and send them a reminder to log in, or you could email or print the missing report."
+   },
+   {
+         "s": "**Check accuracy.** When most or all of the reports are in, or as you approach the deadline for submitting your monthly report to the Branch, view the *Monthly Detail* report. Review it for accuracy, and keep an eye out for remarks. A publisher may accidentally have entered an extra number, causing 10 hours to become 100, for example."
+   },
+   {
+         "s": "**Mark submitted.** When you are ready to submit your report to the Branch, log in to jw.org and open up the field service report. In another browser window or tab, open Hourglass and go to the :ref:`monthly_summary` report. Enter the values into the corresponding boxes on jw.org. Carefully ensure that the information is transferred accurately, and that on the second (confirmation) page on jw.org, the totals match. Then, click :button:`%(submittedbutton)s` in Hourglass. This will mark all the reports that comprise the summary as having been submitted to the Branch.",
+         ".": "Keep the :ref:`monthly_summary` placeholder and the %(submittedbutton)s placeholders in the translated text. :button: is also something that is special and should not be translated"
+   },
+   {
+         "s": "**Enter attendance.** Don't forget to enter the attendance for the month. Go to *Congregation*, *Meeting Attendance*, click the button for the month, and enter the information from the S-3 form. Totals and averages will be calculated automatically."
+   },
+   {
+         "s": "Monthly Workflow",
+         ".": "This is the title of a Help page that describes how to use Hourglass each month."
+   },
+   {
+         "s": "Importing Data"
+   },
+   {
+         "s": "Hourglass provides import functionality from two systems: *KHS* and *TSWIN*. The step-by-step procedures and necessary utilities are available from *Congregation*, *Import* in Hourglass. Please read the *About Importing* section carefully; it contains some caveats regarding the process. Additionally, note that the focus of importing is on publisher records and field service reports. Information such as emergency contacts and other data that may be stored in these other systems is not imported."
+   },
+   {
+         "s": "When you import, the system does not know exactly what was submitted to the Branch in a given month. Thus, when you view monthly summaries for imported months, you will see a note that indicates that the month was marked as submitted when your congregation was imported. If you were to delete a publisher from your congregation, this could affect those monthly summaries, because their totals were not submitted through Hourglass."
+   },
+   {
+         "s": "The most important thing you can do to have a successful import is to ensure that names match. If the first, middle, or last name (or suffix) differs at all, Hourglass will assume that this is a different individual and create a new publisher record for them. This can be especially problematic if the record of a Congregation administrator, such as yourself, is duplicated. The result of this is that one publisher record has all the historical reports, while the other has the Congregation Admin role. If this happens to you, it can be resolved by taking the following steps, with the end goal of moving the Congregation Admin role to the publisher record with the reports:"
+   },
+   {
+         "s": "Alter the last name of the publisher record that currently has the Congregation Admin role, but has no reports. Make it obvious that this is the one to be deleted, to avoid confusion. For example, if the last name is \"Smith\", change it to \"Smith-DELETE\" or similar."
+   },
+   {
+         "s": "Go to the *Congregation*, *Profile & Permissions* page and add the newly imported user as a Congregation Admin. This is the one without the changed name."
+   },
+   {
+         "s": "Add at least one other Elder as a Congregation Admin. By doing this, if you are unavailable or lose access, someone will be able to access your congregation in Hourglass."
+   },
+   {
+         "s": "Now you need to log in with the new, imported publisher record. You can do one of two things:"
+   },
+   {
+         "s": "Send an invite to one of the other Elders you made a congregation admin. Have them accept it with a web browser, delete the old record (with the changed name), and send an invite to the new, imported record."
+   },
+   {
+         "s": "Alternately, you can send an invite to the new, imported record, as long as it's to a different email address. Accept it, log in, and then you can delete the record with the changed name."
+   },
+   {
+         "s": "If you have trouble with the above, or any other issues with importing, please contact support@hourglass-app.com."
+   },
+   {
+         "s": "Monthly Summary"
+   },
+   {
+         "s": "The *Monthly Summary* report is a critical part of keeping Hourglass in sync with your reports as submitted to the Branch. For the current month, the summary is calculated by looking at all previous reports that have not been marked as submitted to the Branch. In most cases, these would be reports for the month being viewed. Often there are some late reports from past months included as well."
+   },
+   {
+         "s": "Below are explanations for some things you may see on this report:"
+   },
+   {
+         "s": "Warning Messages"
+   },
+   {
+         "s": "You may see some warning messages on a Month Summary report.  These are intended to help prevent accidental errors in calculating the totals.  Some examples include:"
+   },
+   {
+         "s": "A high number of late reports. This means that the number of unsubmitted reports from past months is high relative to the number of publishers in your congregation, and probably means that some past reports need to be marked as submitted. It could be that you just need to view the Monthly Summary of a past month and click :button:`%(submittedbutton)s`, or you may need to individually go to older reports and right-click to mark them as submitted.",
+         ".": "%(submittedbutton)s will be replaced with the 'Submitted to Branch' button. Keep the placeholder in the translated text."
+   },
+   {
+         "s": "Previous month not submitted through Hourglass. This could simply indicate that it's your first month and you have not imported any data. Since nothing has been submitted, extra caution is warranted in making sure the report is accurate."
+   },
+   {
+         "s": "Some number of reports have already been marked as submitted. There is a mixture of submitted and unsubmitted reports for a month. You might have manually marked a report as submitted when the rest were not. This is an unusual situation and extra care should be taken to ensure accuracy."
+   },
+   {
+         "s": "This is an expandable list of those who are inactive, and if the month they became inactive is known, it is displayed. Note if you add a new publisher to Hourglass and neither enter any field service reports for them nor assign a *First Month* within the last 6 months, they will show as inactive, because there is no report for them in the past 6 months."
+   },
+   {
+         "s": "Unsubmitted Reports from Previous Months"
+   },
+   {
+         "s": "You may see a message near the bottom of the report that says \"The above totals include [number] unsubmitted reports(s) from previous months.\" As indicated above in :ref:`monthly_summary_warning_messages`, these are usually late reports from past months. Since the monthly summary looks for all past unsubmitted reports, it tells you how many it found.",
+         ".": "Keep the :ref placeholder intact"
+   },
+   {
+         "s": "Carrying Over Minutes"
+   },
+   {
+         "s": "When there are fractional hours for your congregation that don't add up to a full hour, they are carried over automatically to next month. If this occurs, a note indicating the number of minutes will appear at the bottom of the report."
+   },
+   {
+         "s": "It is absolutely vital that you synchronize your Monthly Summary with jw.org, and click the :button:`%(submittedbutton)s` button each month with the exact values you enter on jw.org. More information on this process is available in :ref:`monthly_workflow`.",
+         ".": "Don't change the :ref: link"
+   },
+   {
+         "s": "Field Service Groups in Hourglass are identified by the Group Overseer. Groups are used when viewing a number of reports. A Group Overseer can have access, via an invitation, to view his group's reports and, depending on the permissions granted to him, update them."
+   },
+   {
+         "s": "To manage Group assignments, go to *Congregation*, *Field Service Groups*. If you're using a computer, you can drag and drop publishers between groups. You can also right-click to move groups, or make someone an assistant. On a mobile device, tapping a publisher will present an option menu allowing the same actions."
+   },
+   {
+         "s": "Clicking on this icon next to *Meeting* allows you to enter a brief description of when and where this group meets for field service.",
+         ".": "This text comes right after the pencil icon for editing a group meeting location"
+   },
+   {
+         "s": "Please note that when someone is a group overseer, their publisher record cannot be deleted. You also cannot just remove a group overseer; you need to replace them with someone else instead. If a group is dissolved, all its members need to be moved to other groups."
+   },
+   {
+         "s": "Hourglass creates two views of the field service groups intended for printing, one for the information board that excludes the Inactive, and another for Elders that displays the Inactive."
+   },
+   {
+         "s": "Printing"
+   },
+   {
+         "s": "The S-21 Publisher Record Card is generated by Hourglass as a 8.5\"x11\" PDF."
+   },
+   {
+         "s": "Record cards can be generated for one publisher, from the *Actions* menu on their record. They can also be generated for the entire Congregation from the *Publishers* menu. Depending on the amount of data contained in your Congregation's records, you may be able to select prior service years to generate record cards for. They will be ordered as directed by the Branch."
+   },
+   {
+         "s": "When generating record cards, it's important to note that even when selecting a past service year, the information at the top of the card (address, appointment, phone number, etc.) is always current based on their publisher record. As an example, if someone was appointed as a Ministerial Servant on September 1, 2015 and their publisher record is marked as such, when generating their publisher record card, the Ministerial Servant box will be checked regardless of the service year selected."
+   },
+   {
+         "s": "Most reports have a printer button. This can be used to print them directly from your browser, or as many browsers have, save to a PDF file which is suitable for emailing or printing at a later time."
+   },
+   {
+         "s": "Mobile Apps"
+   },
+   {
+         "s": "Apps are available for iOS and Android.  The primary goal of the apps is to allow publishers to enter their own field service reports.  There are some features available to Congregation Admins, such as sending invitations and viewing & entering reports for anyone in the Congregation."
+   },
+   {
+         "s": "As mentioned in the documentation for :ref:`invitations`, once an invite has been used to link an app, it is invalidated for security reasons.  For one publisher to use multiple devices, they will need multiple invitations.",
+         ".": "Keep the invitations placeholder as is"
+   },
+   {
+         "s": "Frequently Asked Questions"
+   },
+   {
+         "s": "How can I change my sign-in information, such as my email address or password?"
+   },
+   {
+         "s": "You will see an Authentication tab when viewing your own publisher profile. This tab allows you to switch between Google sign-in and password-based sign-in. If you're using a password to sign in, you can also change the password or change your sign-in email address."
+   },
+   {
+         "s": "How do I allow other Elders to log in to my Congregation?"
+   },
+   {
+         "s": "Set them up with the proper permissions and send them :ref:`invitations`.",
+         ".": ":ref:`invitations` is a link. Keep it in the text"
+   },
+   {
+         "s": "What is the best way to handle publishers moving in and out?"
+   },
+   {
+         "s": "When someone moves in, go to *Publishers*, *Add* and enter their details: name, status, birth and baptism dates, contact information, etc. Then, make a decision about how much historical data you want to have in the system for them. If you don't need to have their past reports online, you can set a *First Month* for them of the month they moved in, and start from there. You won't be able to enter reports older than this month; the system treats it as though they began publishing in that month. If you want to enter older reports, here are some things to keep in mind:",
+         ".": "Use * to mark the appropriate words"
+   },
+   {
+         "s": "As you input older reports, mark them as submitted. Otherwise, they will show up as late (unsubmitted) reports on your :ref:`monthly_summary` and will be reported to the Branch twice. You can do this by right-clicking anywhere in the row for the desired month if you have a mouse, or on a touchscreen, tap on the month or reported date.",
+         ".": "Keep the :ref:`monthly_summary`, it's a link"
+   },
+   {
+         "s": "You should enter reports as far back as the August before the start of the past service year. If you don't, when you run the *Congregation Analysis Report*, it will show this individual as having been reactivated, since they had no prior reports and no *First Month*."
+   },
+   {
+         "s": "When someone moves out, simply delete them (*Actions*, *Delete*). Make sure you have updated or printed their current S-21 to send on to the new congregation before deleting their record. This will not affect your past monthly summaries as long as they were submitted through Hourglass (i.e. you clicked the 'Submitted to Branch' button)."
+   },
+   {
+         "s": "What do I do when someone no longer qualifies as a publisher (e.g. they are disfellowshipped)?"
+   },
+   {
+         "s": "Go to *Actions*, *Not Publishing* for this individual. The information you see on the main user page will be saved (their contact information, birth/baptism dates, appointments, and field service reports). Delegates and Emergency Contacts will not be saved. If you need to reinstate someone as a publisher, go to the *Publishers* menu and click *Not Publishing* to see a list of such individuals. You can then click *Restore* to reinstate them."
+   },
+   {
+         "s": "Introduction to Hourglass"
+   },
+   {
+         "s": "This introduction aims to provide an overview of the basic concepts used in Hourglass. They are:"
+   },
+   {
+         "s": "Publisher Records"
+   },
+   {
+         "s": "Each publisher in the congregation has a publisher record. This record includes the kind of information found on the top of the S-21 Publisher Record Card, such as their birth and baptism date."
+   },
+   {
+         "s": "*Family Contact* can be used to filter the All Publishers contact list down to one row per family. By checking this box, perhaps for the head of the household, then when you go to the contact list, you can choose to see everyone, or only the family contacts.",
+         ".": "Translate what's between the * but leave them in place"
+   },
+   {
+         "s": "*First Month* is visible when the publisher's *Status* is Baptized or Unbaptized Publisher, and it sets the first month that time is tracked for this publisher. Months before the first month will not be counted as missing. The most obvious use for this is when there is a new Unbaptized Publisher, who begins publishing in this month. There are other times when this is useful, such as when someone moves in to your congregation and you don't want to input (or don't have) historical reports for them.",
+         ".": "Leave the * in"
+   },
+   {
+         "s": "*Address* will autocomplete from other addresses in your congregation; once you type a few letters of an existing address, similar addresses will appear and you can select them. By doing this, you will save time, and families with the same last name and address will be grouped together in the *All Publishers* and *Field Service Group* lists.",
+         ".": "Keep the *s"
+   },
+   {
+         "s": "The *Actions* menu provides additional actions that can be taken for the selected publisher, such as deleting them, viewing their publisher record card, etc. *Send Reminder* sends a reminder to just this publisher if they are missing a report for the past month. *Revoke Access* removes this publisher's ability to enter their own time. Their record stays intact, but reports must be entered manually by a Congregation Admin. Access can be restored if desired.",
+         ".": "Keep the *s"
+   },
+   {
+         "s": "Publisher Icons"
+   },
+   {
+         "s": "There are a few icons used in Hourglass:"
+   },
+   {
+         "s": "indicates that a recent email to this publisher bounced. The email address is not valid.",
+         ".": "This appears right after the warning icon"
+   },
+   {
+         "s": "indicates that this publisher is a group overseer"
+   },
+   {
+         "s": "indicates that this publisher is a congregation admin"
+   },
+   {
+         "s": "Delegates provide a way for one publisher to enter reports on behalf of another.  This is commonly used for parents to enter reports for their children, but can be enabled for anyone."
+   },
+   {
+         "s": "Emergency Contact information can be stored for each publisher. Go to the *Emergency Contacts* tab when viewing the publisher record, and enter the information. If multiple publishers have the same emergency contact, type a few letters and then select it from the dropdown. Multiple emergency contacts can be set for a given publisher."
+   },
+   {
+         "s": "A complete list of emergency contacts for the entire congregation, organized by group, is available by selecting *Publishers*, *Emergency Contact List*."
+   },
+   {
+         "s": "Up to 8 years of field service activity can be stored for each publisher in Hourglass. A list of months appears below the Publisher record when selecting a publisher, with the most recent month listed first. Input is automatically saved, and success is indicated when a date is updated in the *Reported* column."
+   },
+   {
+         "s": "*Hours* can be any whole number, including zero. It can also be 0.25, 0.5, or 0.75 to indicate 15, 30, or 45 minutes of time. Other values will result in an error, indicated by the row turning red. You can also click the month button for a row without a report and select Active to indicate a publisher who has reported some activity in the month, in harmony with the December 2020 announcement."
+   },
+   {
+         "s": "Report rows will become disabled (grayed out) when that report has been marked as submitted to the Branch (for more information on submitting monthly reports, see :ref:`monthly_workflow`). The only fields that will be available will be those that are not included in the report to the Branch: Credit and Remarks."
+   },
+   {
+         "s": "*Credit* is used to track Regular and Special Pioneer credit hours for other theocratic projects that are not field service. Publishers cannot input this information directly; they can indicate it in a Remark, but the Secretary or another Admin should review this and enter the proper number of Hours into the Credit field."
+   },
+   {
+         "s": "You can click on the month button for some additional options. If the report has been marked as submitted, you can undo this by clicking *Undo Submitted*. This should be done with **extreme caution** as it has the potential to make your reports to the Branch inaccurate. The reason is that any past unsubmitted report is viewed by Hourglass as a late field service report that should be included in the next month's totals."
+   },
+   {
+         "s": "For reports that have not been submitted, you can delete them or mark them as submitted. Marking them as submitted means that the report has been submitted to the Branch already. This is commonly done when entering historical reports for months that were submitted prior to using Hourglass, for example."
+   },
+   {
+         "s": "Invitations"
+   },
+   {
+         "s": "Invitations are the **only** way to allow users to access your congregation in Hourglass. Whether you want to invite a publisher to submit their own reports, to allow another Elder to have access as a Congregation Administrator, you must send them an invitation.",
+         ".": "Keep the double ** in the final text"
+   },
+   {
+         "s": "Invitations are used to link the publisher record in Hourglass to one of the following:"
+   },
+   {
+         "s": "The mobile app running on one device"
+   },
+   {
+         "s": "A Google account"
+   },
+   {
+         "s": "Any email address (with a password selected by the user)"
+   },
+   {
+         "s": "Invitations are **one-time-use**. For security reasons, as soon as an invitation is used to successfully link one of the above, it is invalidated. If a user has multiple mobile devices, such as a tablet and a phone, and wants to use the Hourglass mobile app on both, they will need an invitation for each device.",
+         ".": "Keep the double **"
+   },
+   {
+         "s": "Invitations accepted in a web browser allow the user to create a password or sign in with their Google account. Once this has been done, those credentials can be used from any device to sign in. For a Group Overseer or a Congregation Administrator to see the full interface, with all reports, etc. they need to sign in with a browser."
+   },
+   {
+         "s": "Invitations can be sent via email through the Hourglass web site (they will open in your computer's default email application). For Congregation Admins, they can also be sent from the mobile app through email, text message, or through a QR code displayed on the screen."
+   },
+   {
+         "s": "Permissions"
+   },
+   {
+         "s": "There are several roles which allow Brothers to perform various functions within Hourglass. They are managed on the Congregation *Profile & Permissions* page. If someone is given more than one role, they will have access to the capabilities of each role they are assigned.",
+         ".": "Keep the ` `"
+   },
+   {
+         "s": "If someone is given the Group Overseers (Update) permission, they gain the ability to enter reports for those in their group. They can do this through the web or a mobile app. They can also update the contact information (phone number, email, and address) and emergency contacts for those in their group."
+   },
+   {
+         "s": "Hourglass is a system designed to help the Congregation Secretary. It allows publishers to securely enter their own field service reports and see their own report history. If you haven't watched the `introductory video <https://youtu.be/xLSoj6ik1_M>`_ that's part of the Hourglass Tour, you may want to watch it now.",
+         ".": "inside the backticks (` `) translate 'introductory video' but leave the rest, including the trailing _. 'introductory video' will be a link to the youtube URL."
+   },
+   {
+         "s": "The list of publishers appears on the left side of the main Hourglass screen. You can click on an individual publisher to view their record, or you can type part of their name to find them, use the arrow keys to move up or down one record, and press :kbd:`enter` or :kbd:`right arrow` to select their record.",
+         ".": "Translate 'enter' and 'right arrow' as appropriate for your keyboard. Leave the :kbd: and ` `"
+   },
+   {
+         "s": "The publisher record has four tabs: *Publisher*, *Emergency Contacts*, *Delegates*, and *Options*. Most of the fields on the Publisher tab are self-explanatory, but a few notes are warranted.",
+         ".": "Keep the * as they are. The words surrounded by them will be emphasized."
+   },
+   {
+         "s": "Changes to the *Publisher* tab need to be saved; the %(savebutton)s button will change color when this is necessary. Saving will result in a green check mark when successful.",
+         ".": "Leave *s in. %(savebutton)s is a placeholder for the Save button; leave that in as well."
+   },
+   {
+         "s": "Group Overseers automatically receive the Group Overseers (View) permission when they are assigned as a group overseer in the :ref:`service_groups` page. They can view reports for those in their group, but not enter them. They can also see the list of missing field service reports and the congregation contact list.",
+         ".": ":ref:`service_groups` is a link to another page. Leave it in the correct place in the translated text."
+   },
+   {
+         "s": "Congregation Administrators can do everything; they have full permissions to add and remove publishers, view all reports, etc. It is recommended that at least 2 Elders have this role, in case one loses access for some reason. Some congregations choose to give their Service Committee this role. As indicated in :ref:`invitations`, an invite must be sent to these brothers in order to securely provide them access.",
+         ".": ":ref:`invitations` is a link to the invitations section. Leave it in the correct place in the translated text"
+   },
+   {
+         "s": "To enable it, select the publisher record of the person that will have someone else entering reports for them (e.g. the child).  On the *Delegates* tab, enter the name of the person who will be entering reports for them (e.g. the parent).  When the parent accesses Hourglass, via a browser or mobile app, they will see themselves and their child, and can view and enter reports for both.",
+         ".": "Keep the *s in the final text surrounding the translated 'delegates'"
+   },
+   {
+         "s": "Welcome to Hourglass documentation!"
+   },
+   {
+         "s": "Contents:"
+   },
+   {
+         "s": "Are you sure you want to restore the following individual as a publisher?",
+         ".": "Confirmation popup when restoring a publisher from Not Publishing back to the congregation. Their name appears immediately following this text."
+   },
+   {
+         "s": "Their contact information and past reports will be saved, but they will no longer appear in the publisher list. Any emergency contacts will not be saved. For past months that have not been submitted through Hourglass, totals may change.",
+         ".": "Second line of confirmation text for not publishing"
+   },
+   {
+         "s": "Are you sure you want to remove the following individual as a publisher?",
+         ".": "First line of confirmation popup when Not Publishing is selected. The name of the publisher immediately follows this text."
+   },
+   {
+         "s": "If you are sure, type the publisher's first name into this box:",
+         ".": "Third line in the publisher delete confirmation. After this is an input box asking the user to enter the publisher's first name"
+   },
+   {
+         "s": "Everything, including contact information and all service reports, will be gone forever.  For past months that have not been submitted through Hourglass, totals may change.",
+         ".": "Second line of text when confirming the deletion of a publisher"
+   },
+   {
+         "s": "You are about to delete the following publisher:",
+         ".": "First line of the confirmation popup when deleting a publisher. The name of the publisher will appear directly after this text."
+   },
+   {
+         "s": "Don't Save Them",
+         ".": "A button that discards the changes that have not been saved to the publisher"
+   },
+   {
+         "s": "publisher information",
+         ".": "When the type of information that hasn't been saved is information about the publisher"
+   },
+   {
+         "s": "You have unsaved changes to the %(unsaved_type)s for this person.  What do you want to do?",
+         ".": "Main text of the unsaved changes popup. The %(unsaved_type)s placeholder must appear in the translated text. unsaved_type will be the value of either popup.lose-changes.type.publisher-info or userinfo.tab.emergency-contacts."
+   },
+   {
+         "s": "Lose Changes",
+         ".": "When changes are about to be lost, this is the title of the confirmation popup"
+   },
+   {
+         "s": "5th week"
+   },
+   {
+         "s": "4th week"
+   },
+   {
+         "s": "3rd week"
+   },
+   {
+         "s": "2nd week"
+   },
+   {
+         "s": "1st week",
+         ".": "Similar to the S-88, each week is shown in its own column"
+   },
+   {
+         "s": "Average",
+         ".": "A row or column indicating an average"
+   },
+   {
+         "s": "Meeting",
+         ".": "Column that indicates which type of meeting the row is for (e.g. midweek/weekend)"
+   },
+   {
+         "s": "Is it OK to update this emergency contact for everyone listed?",
+         ".": "Confirmation that it's acceptable to update the emergency contact for all who share it"
+   },
+   {
+         "s": "These other people also have the emergency contact you just changed:",
+         ".": "When an emergency contact is changed and more than one person shares the contact, this precedes the list of other people with the same emergency contact."
+   },
+   {
+         "s": "View",
+         ".": "Usually a button, this is pressed when the user is ready to see the results of something"
+   },
+   {
+         "s": "Please note that current information is always displayed for baptism date and appointments (Elder/MS/Regular Pioneer), even if this was not the case during the service year selected.",
+         ".": "Information about the heading of the record card that appears on the popup"
+   },
+   {
+         "s": "Order for file (pioneers, publishers by group, inactive)",
+         ".": "The popup for record cards has an option to organize the cards for the file. This text appears right after the checkbox for that option."
+   },
+   {
+         "s": "Select a service year to view Publisher Record Cards:",
+         ".": "When viewing all publisher record cards, a popup appears. This part of the popup asks you to select which service year you want to view record cards for"
+   },
+   {
+         "s": "There are no reports entered for your congregation.",
+         ".": "The main text of the popup indicating that there's no reports for the congregation"
+   },
+   {
+         "s": "No Reports",
+         ".": "When the action selected has no results because there are no reports for the congregation, a window appears. This is the title of the window."
+   },
+   {
+         "s": "Your Hourglass session has timed out.",
+         ".": "Informs the user that their session has timed out."
+   },
+   {
+         "s": "Session Timeout",
+         ".": "If the browser session has timed out, a popup appears. This is its title."
+   },
+   {
+         "s": "Undo Submitted",
+         ".": "Context menu item for marking a report unsubmitted"
+   },
+   {
+         "s": "Mark Submitted",
+         ".": "Context (right-click) menu item to mark a report submitted"
+   },
+   {
+         "s": "Are you sure you want to do this?",
+         ".": "2nd line of unsubmit warning"
+   },
+   {
+         "s": "This may result in an inaccurate report to the Branch. The unsubmitted report will be included in monthly summaries, even though it may have already been reported.",
+         ".": "First line of warning about marking a report unsubmitted"
+   },
+   {
+         "s": "Unsubmit Report",
+         ".": "Title of the popup warning window when marking a report as unsubmitted"
+   },
+   {
+         "s": "New invitations will need to be sent for any other access.",
+         ".": "Third line of text when restoring a user's access"
+   },
+   {
+         "s": "Previously linked mobile devices will once again function.",
+         ".": "2nd line of text when restoring a user's access"
+   },
+   {
+         "s": "Are you sure you want to restore access for this user?",
+         ".": "First line of confirmation text when restoring a user's access"
+   },
+   {
+         "s": "They will no longer be able to log in from the web or a mobile device, or receive reminders. Congregation Administrators can still enter reports for them.",
+         ".": "2nd line of confirmation text when revoking a user's access"
+   },
+   {
+         "s": "Are you sure you want to revoke access for this user?",
+         ".": "First line of confirmation popup when Revoke Access is selected for a user"
+   },
+   {
+         "s": "Proceed",
+         ".": "A button that continues the action"
+   },
+   {
+         "s": "This cannot be undone."
+   },
+   {
+         "s": "Are you sure you have submitted this information to the Branch? The numbers should match exactly on jw.org and on this page.",
+         ".": "When clicking 'Submitted to Branch', this is the first line of confirmation popup text"
+   },
+   {
+         "s": "Save a copy of your Hourglass data.",
+         ".": "Displayed in the popup when Congregation, Export is selected"
+   },
+   {
+         "s": "Download",
+         ".": "Usually a button that initiates a download"
+   },
+   {
+         "s": "Cancel",
+         ".": "Usually a button that cancels an action"
+   },
+   {
+         "s": "Reminders will be sent to all publishers who have not submitted a report for last month.",
+         ".": "Text in the confirmation popup when reminders will be sent to the entire congregation"
+   },
+   {
+         "s": "Reminders will be sent to this publisher only. If they have linked mobile devices, push notifications will be sent. Otherwise, they will receive an email.",
+         ".": "Confirmation popup text when reminders will be sent to one publisher"
+   },
+   {
+         "s": "Unable to import %(firstname)s %(lastname)s because the following required information was missing: %(missingattrs)s",
+         ".": "Provides information about publishers who could not be imported because a required field was missing (first name, last name, and/or gender). The placeholders for each must appear in the translated text."
+   },
+   {
+         "s": "Last name"
+   },
+   {
+         "s": "First name"
+   },
+   {
+         "s": "Reports",
+         ".": "Usually a row or column in a table that indicates the number of field service reports"
+   },
+   {
+         "s": "Updated",
+         ".": "After an import is complete, a table is shown with statistics about the imported data. This column shows how many existing records were matched and updated"
+   },
+   {
+         "s": "Invalid",
+         ".": "After an import is complete, a table is shown with statistics about the imported data. This column shows how many records were invalid and could not be imported"
+   },
+   {
+         "s": "Imported",
+         ".": "After an import is complete, a table is shown with statistics about the imported data. This column shows how many records were imported"
+   },
+   {
+         "s": "Drop the %(filename)s file(s) here",
+         ".": "This appears in the box where the import file is to be dropped. The placeholder %(filename)s must be in the translated string; it will be replaced with the filename (either hourglass-import.json or publist.xml)"
+   },
+   {
+         "s": "Step 3"
+   },
+   {
+         "s": "Which program do you want to import from?",
+         ".": "Asks the user which program they're importing from"
+   },
+   {
+         "s": "Field service groups may not be imported correctly in all cases. After the import, please check your groups and make adjustments in Hourglass as needed"
+   },
+   {
+         "s": "Regular Pioneer credit hours will not be carried over from KHS or TSWIN. Please enter the appropriate hours for the current service year in order for your Regular Pioneer progress report to be accurate"
+   },
+   {
+         "s": "Addresses may not import perfectly, especially for addresses outside the United States"
+   },
+   {
+         "s": "This process assumes that the data being imported should take precedence. If information has been updated in Hourglass, such as an address, phone number, publisher status, email address, etc. it will be overwritten with the imported data for that user (assuming the names match as described above)"
+   },
+   {
+         "s": "Ensure that names match exactly for anyone who is already listed in Hourglass (such as yourself!) and is also being imported. If the first, middle, and last name (and optional suffix) match exactly, then the records will be merged. If not, a new publisher will be created in Hourglass, and you will have two entries for the same person"
+   },
+   {
+         "s": "About Importing",
+         ".": "Title of the list that provides import caveats"
+   },
+   {
+         "s": "TSWIN will create a file called publist.xml (usually in the C:\\TSWIN directory). Drag and drop that file as indicated in Step 3 below",
+         ".": "Please adjust the path for TSWIN if you know what it is in your language"
+   },
+   {
+         "s": "Note that you will not be able to import Inactive publishers. If necessary, enter them manually in Hourglass"
+   },
+   {
+         "s": "Next, make sure that Active publishers is selected on the right, then click the Select All button and press OK",
+         ".": "Step 3 of TSWIN import instructions"
+   },
+   {
+         "s": "Select File, Export, Export to XML",
+         ".": "Second step of instructions for TSWIN import"
+   },
+   {
+         "s": "Make sure you are running TSWIN version 7e (7.0.5.2) or later. If you have an earlier version, download and install the latest one now",
+         ".": "Step 1 of TSWIN import instructions"
+   },
+   {
+         "s": "When it has completed successfully, proceed to Step 3 (below)"
+   },
+   {
+         "s": "Run it from the Start Menu",
+         ".": "Step 3 of the first part of the KHS/Secretary import instructions"
+   },
+   {
+         "s": "Install it on your computer",
+         ".": "Step 2 of KHS/The Secretary import instructions"
+   },
+   {
+         "s": "Download the KHS Import Tool",
+         ".": "Step 1 of the import instructions for KHS"
+   },
+   {
+         "s": "NOT IN A GROUP",
+         ".": "Where those who have no group assignment are listed"
+   },
+   {
+         "s": "MEMBERS",
+         ".": "Where the list of members in the group are shown"
+   },
+   {
+         "s": "MEETING",
+         ".": "Where the group meeting time/location is shown"
+   },
+   {
+         "s": "Select Role...",
+         ".": "When adding a new user with permissions, this prompts for a role (permission) to be selected from a dropdown"
+   },
+   {
+         "s": "Select User...",
+         ".": "When adding a new user to have permissions, this prompts for a user to be selected from the list"
+   },
+   {
+         "s": "Group Overseer (Update)",
+         ".": "Role for a group overseer who can enter reports"
+   },
+   {
+         "s": "Group Overseer (View)",
+         ".": "Role for a group overseer that can only view reports"
+   },
+   {
+         "s": "Congregation Admin",
+         ".": "Congregation Administrator role"
+   },
+   {
+         "s": "Add User",
+         ".": "Button that allows a new user to be added with permissions"
+   },
+   {
+         "s": "Role",
+         ".": "Column for the role (permission) that the user has"
+   },
+   {
+         "s": "Congregation Users",
+         ".": "Heading above the list of users with elevated permissions (group overseer, admin) in the Congregation"
+   },
+   {
+         "s": "Time Zone",
+         ".": "Where the time zone for the congregation is selected (this is based on the country)"
+   },
+   {
+         "s": "Language",
+         ".": "Selection of language"
+   },
+   {
+         "s": "Number",
+         ".": "Field where the congregation number is entered"
+   },
+   {
+         "s": "Congregation Name",
+         ".": "Field where the congregation's name is entered"
+   },
+   {
+         "s": "My Congregation",
+         ".": "Title of the Congregation Profile & Permissions page"
+   },
+   {
+         "s": "\"Meeting\" should contain the date and time the group meets. * indicates the group assistant.",
+         ".": "Information about how to use the field service groups page"
+   },
+   {
+         "s": "Drag and drop individuals to move them between groups, or right-click to see a menu of options.",
+         ".": "Instructions for using field service groups on a regular computer"
+   },
+   {
+         "s": "Touch a name to see options for moving them between groups.",
+         ".": "Instructions on how to use the field service groups page on a mobile device"
+   },
+   {
+         "s": "For Elders (includes inactive, Alternate Layout)",
+         ".": "Alternate layout to print group list for Elders"
+   },
+   {
+         "s": "For Elders (includes inactive)",
+         ".": "Dropdown option to print the field service groups for the elders, which includes the inactive"
+   },
+   {
+         "s": "For Information Board (Alternate Layout)",
+         ".": "Alternate layout printing groups for the information board"
+   },
+   {
+         "s": "For Information Board",
+         ".": "Dropdown selection to print the field service groups for the information board"
+   },
+   {
+         "s": "With Inactive Publishers",
+         ".": "When the list of field service groups includes the inactive, such as a list for the Elders, this heading is shown"
+   },
+   {
+         "s": "Excludes Credit Hours",
+         ".": "Explains that the regular pioneer totals don't include credit hours"
+   },
+   {
+         "s": "Only submitted reports are included.",
+         ".": "Information about how the service year totals are computed"
+   },
+   {
+         "s": "Print to S-21",
+         ".": "Help text for the button that generates S-21s based on the totals so far for each publisher type"
+   },
+   {
+         "s": "Print",
+         ".": "Usually indicates that this button will print the current page"
+   },
+   {
+         "s": "Difference",
+         ".": "Column showing the difference in the hour quota and actual hours. This could be positive or negative or zero."
+   },
+   {
+         "s": "Actual Hours",
+         ".": "Column for the actual number of hours the pioneer has so far"
+   },
+   {
+         "s": "Hour Quota",
+         ".": "Column for the number of hours the pioneer should have at this point in the service year"
+   },
+   {
+         "s": "Months Pioneering",
+         ".": "Column for # of months in the service year the pioneer's reports are of the Regular Pioneer type"
+   },
+   {
+         "s": "This person has logged in with their email address",
+         ".": "Indicates that this person is using an email address to sign in"
+   },
+   {
+         "s": "Filter By:",
+         ".": "Label that precedes the filtering options on the all publishers contact list"
+   },
+   {
+         "s": "Font Size:",
+         ".": "Label indicating that the size of the text can be increased or decreased"
+   },
+   {
+         "s": "Download as CSV (filters do not apply)",
+         ".": "Help text on the download icon when viewing the all publishers contact list"
+   },
+   {
+         "s": "Restore",
+         ".": "Button to restore an individual that is Not Publishing back into the congregation"
+   },
+   {
+         "s": "Address",
+         ".": "Column or label for the address"
+   },
+   {
+         "s": "Email",
+         ".": "Column or label for the email address"
+   },
+   {
+         "s": "Home",
+         ".": "Column or label for the home telephone number"
+   },
+   {
+         "s": "Cell",
+         ".": "Column or label for the cellular or mobile phone number"
+   },
+   {
+         "s": "No emergency contacts.",
+         ".": "Shown when a publisher has no emergency contacts"
+   },
+   {
+         "s": "Contact Name",
+         ".": "Name of the emergency contact"
+   },
+   {
+         "s": "6 Month Average",
+         ".": "The row on the publisher average report where the 6-month average is shown"
+   },
+   {
+         "s": "Publishers with no reports in the listed months are excluded."
+   },
+   {
+         "s": "None Selected",
+         ".": "When nothing is selected; often a default state for a dropdown"
+   },
+   {
+         "s": "Select Publisher Type:",
+         ".": "Prompts the user to select the publisher type on the publisher average report"
+   },
+   {
+         "s": "Publisher Averages",
+         ".": "Title of the publisher averages report"
+   },
+   {
+         "s": "Weekly Average:",
+         ".": "Where the weekly average attendance is shown"
+   },
+   {
+         "s": "Monthly Total:",
+         ".": "The total attendance for the month is shown here"
+   },
+   {
+         "s": "No. of Meetings:",
+         ".": "Where the number of meetings held in the month is displayed"
+   },
+   {
+         "s": "Click a month to enter or update attendance figures.",
+         ".": "Appears at the top of the congregation attendance view to provide instructions on how to use the page."
+   },
+   {
+         "s": "Reactivated",
+         ".": "When the details are shown on the S-10, this is next to the month in which the publisher was reactivated"
+   },
+   {
+         "s": "Became Inactive",
+         ".": "When the details are shown on the S-10, this is next to the month in which the publisher became inactive"
+   },
+   {
+         "s": "Reactivated publishers",
+         ".": "The number of reactivated go here on the S-10"
+   },
+   {
+         "s": "Inactive publishers",
+         ".": "Where the number of inactive are shown on the S-10"
+   },
+   {
+         "s": "Active publishers",
+         ".": "Where the number of active publishers is displayed on the S-10"
+   },
+   {
+         "s": "Publishers",
+         ".": "Heading on the S-10 for Publishers"
+   },
+   {
+         "s": "Unable to display attendance figures",
+         ".": "When the attendance information can't be displayed"
+   },
+   {
+         "s": "Watchtower Study"
+   },
+   {
+         "s": "Public Meeting"
+   },
+   {
+         "s": "Congregation Bible Study"
+   },
+   {
+         "s": "Weekend Meeting"
+   },
+   {
+         "s": "Midweek Meeting"
+   },
+   {
+         "s": "Average Weekly Attendance",
+         ".": "Heading in the S-10 for average weekly attendance"
+   },
+   {
+         "s": "Hide late reports",
+         ".": "Checkbox option that hides late reports when viewing the monthly detail"
+   },
+   {
+         "s": "Month Details",
+         ".": "Title of the monthly details report"
+   },
+   {
+         "s": "Missing Reports",
+         ".": "Title of the Missing report"
+   },
+   {
+         "s": "There was an error, and we were unable to mark the reports as submitted.",
+         ".": "A critical error occurred when pressing the Submitted to Branch button and the reports were not marked as submitted."
+   },
+   {
+         "s": "Name",
+         ".": "Usually a column heading indicating the publisher's name"
+   },
+   {
+         "s": "Note: Individual averages treat missing months as zero. Group averages do not include missing months.",
+         ".": "Information about how the group averages are calculated. Appears above the group average report."
+   },
+   {
+         "s": "Select Group",
+         ".": "Button dropdown that allows the group to be selected for the group averages report"
+   },
+   {
+         "s": "Group Averages",
+         ".": "Title of the Group Averages report"
+   },
+   {
+         "s": "*Does not include Pioneer credit hours.",
+         ".": "Footnote indicating that pioneer credit hours are not included in the figure. Please include the asterisk in your translation."
+   },
+   {
+         "s": "#/Month",
+         ".": "Column heading that indicates the average number of reports per month"
+   },
+   {
+         "s": "Through",
+         ".": "Typically indicates the end of a date range for a report"
+   },
+   {
+         "s": "From",
+         ".": "Usually indicates the beginning of a date range for a report"
+   },
+   {
+         "s": "Congregation Averages",
+         ".": "Title of the Congregation Averages report"
+   },
+   {
+         "s": "Most reports for this month have been marked as submitted, but the following number are not included above because they have been marked as unsubmitted:"
+   },
+   {
+         "s": "This report was marked as submitted when your Congregation data was imported into Hourglass.",
+         ".": "Indicates that the month was submitted in the past and processed during data import"
+   },
+   {
+         "s": "Submitted to Branch",
+         ".": "The button you press when everything on the monthly summary has been entered on jw.org"
+   },
+   {
+         "s": "A report for this month was marked as submitted to the Branch at the following date and time:",
+         ".": "Shows when the report was marked as submitted"
+   },
+   {
+         "s": "There are fractional hours that do not equal a whole hour. The following number of minutes will be carried over to next month:",
+         ".": "When partial hours don't add up to a full hour, the left over minutes are carried over to the next month. This indicates that it's happening and how many minutes."
+   },
+   {
+         "s": "Please ensure that this report is accurate.  The following number of reports for this month have previously been marked as submitted:",
+         ".": "Warning shown when the month has some reports marked as submitted (but not all)"
+   },
+   {
+         "s": "This is a high number of late reports. Please check that any reports already submitted to the Branch are marked accordingly.",
+         ".": "When there's a lot of late reports, this warning is shown"
+   },
+   {
+         "s": "These totals include the following number of unsubmitted (late) reports from previous months:",
+         ".": "This label precedes the number of late reports included in the monthly summary"
+   },
+   {
+         "s": "Going Inactive Next Month",
+         ".": "This label precedes the publishers who will become inactive next month"
+   },
+   {
+         "s": "Inactive Publishers",
+         ".": "On the monthly summary report, this label precedes the inactive publishers"
+   },
+   {
+         "s": "Active Publishers:",
+         ".": "On the monthly summary, this is the label preceding the number of active publishers"
+   },
+   {
+         "s": "Count",
+         ".": "Column indicating the count (number) of items included"
+   },
+   {
+         "s": "Type",
+         ".": "Column that indicates the type of report/publisher"
+   },
+   {
+         "s": "This is your first month submitting with Hourglass, and you have late reports from past months. Please ensure that the report is accurate."
+   },
+   {
+         "s": "The previous month was not submitted through Hourglass. Please check the accuracy of this report. Make sure you click the Submitted to Branch button every month."
+   },
+   {
+         "s": "Enter Older Reports",
+         ".": "Button that allows older reports to be viewed and entered"
+   },
+   {
+         "s": "Mags",
+         ".": "Shortened form of magazines. Should be 4 letters or less"
+   },
+   {
+         "s": "Broch",
+         ".": "Shortened form of Brochures. Should be 5 letters or less."
+   },
+   {
+         "s": "Book",
+         ".": "Shortened form of Books. Should be 4 letters or less."
+   },
+   {
+         "s": "Placements",
+         ".": "Shortened form of Placements, does not include the \"(Printed and Electronic)\" text"
+   },
+   {
+         "s": "Credit",
+         ".": "For pioneer credit hours (e.g. pioneer school, etc.)"
+   },
+   {
+         "s": "Pioneer"
+   },
+   {
+         "s": "BS",
+         ".": "Abbreviation for Bible Studies"
+   },
+   {
+         "s": "RV",
+         ".": "Abbreviation for return visits"
+   },
+   {
+         "s": "Reported",
+         ".": "This column is the date when the field service report was submitted"
+   },
+   {
+         "s": "Month"
+   },
+   {
+         "s": "Add A Delegate",
+         ".": "Field where a delegate's name can be entered"
+   },
+   {
+         "s": "Those listed below will be allowed to view and enter reports for this publisher.",
+         ".": "Provides information on how to use the delegates feature"
+   },
+   {
+         "s": "Notes",
+         ".": "Notes about an emergency contact"
+   },
+   {
+         "s": "Country",
+         ".": "The country of the emergency contact's address"
+   },
+   {
+         "s": "Name",
+         ".": "Name field of an emergency contact"
+   },
+   {
+         "s": "Add Another",
+         ".": "Button that allows another emergency contact to be added"
+   },
+   {
+         "s": "Postal Code",
+         ".": "The postal code of the address. This should be a general label that is understood in any country where the language is spoken"
+   },
+   {
+         "s": "Actions",
+         ".": "The Actions button (dropdown) on the publisher page"
+   },
+   {
+         "s": "This person is a Group Overseer or Group Servant",
+         ".": "Help text for the group overseer icon"
+   },
+   {
+         "s": "This person is a Congregation Admin",
+         ".": "Help text for admin icon"
+   },
+   {
+         "s": "This person has a linked mobile device",
+         ".": "Help text for the mobile icon, indicating that the user has linked their mobile device with Hourglass"
+   },
+   {
+         "s": "State/Province",
+         ".": "If applicable, the state or province can be selected here. It should be a general enough name for any country where the language is spoken."
+   },
+   {
+         "s": "City/Locality",
+         ".": "This is where the city or town portion of the address is entered. The name of this field should be general enough to be understood in any country in which the language is spoken."
+   },
+   {
+         "s": "Address 2",
+         ".": "If the street address has a second part, it can be entered here"
+   },
+   {
+         "s": "Address",
+         ".": "Where the publisher's street address is entered"
+   },
+   {
+         "s": "Email",
+         ".": "Where the publisher's email address is entered"
+   },
+   {
+         "s": "The last email we sent to this address bounced.",
+         ".": "Message indicating that the email address may be bad because the last attempt to send email to it bounced"
+   },
+   {
+         "s": "Home Phone",
+         ".": "Where the home phone can be entered"
+   },
+   {
+         "s": "Cell Phone",
+         ".": "Where the cell phone can be entered"
+   },
+   {
+         "s": "First Month",
+         ".": "Where the first month of publishing can be entered"
+   },
+   {
+         "s": "Pioneer ID",
+         ".": "If the user is a regular pioneer, this is where the pioneer ID can be entered"
+   },
+   {
+         "s": "Status",
+         ".": "Where the publisher's status (baptized/unbaptized, regular/special pioneer, etc.) will be selected"
+   },
+   {
+         "s": "Baptism",
+         ".": "Where the baptism date will be entered"
+   },
+   {
+         "s": "Birth",
+         ".": "Where the birth date will be entered"
+   },
+   {
+         "s": "Baptism must be after birth.",
+         ".": "An error message if the baptism date is before the birth date"
+   },
+   {
+         "s": "Family contact",
+         ".": "If this publisher is the family contact, this box can be checked."
+   },
+   {
+         "s": "Anointed",
+         ".": "If the publisher is anointed, this checkbox is selected"
+   },
+   {
+         "s": "MS",
+         ".": "If the publisher is a ministerial servant, this option is selected"
+   },
+   {
+         "s": "Appointment",
+         ".": "Where the publisher's appointment can be selected (Elder or Ministerial Servant)"
+   },
+   {
+         "s": "Female",
+         ".": "Option to select if the publisher is female"
+   },
+   {
+         "s": "Male",
+         ".": "Option to select if the publisher is male"
+   },
+   {
+         "s": "Gender",
+         ".": "Where the gender of the publisher (male/female) is selected"
+   },
+   {
+         "s": "Suffix",
+         ".": "Where the publisher's name suffix is entered (e.g. Jr., Sr.)"
+   },
+   {
+         "s": "Last",
+         ".": "Where the publisher's last name is entered"
+   },
+   {
+         "s": "Middle",
+         ".": "Where the publisher's middle name is entered"
+   },
+   {
+         "s": "First",
+         ".": "Where the publisher's first name is entered"
+   },
+   {
+         "s": "Authentication",
+         ".": "The Authentication tab, shown when someone views their own publisher profile"
+   },
+   {
+         "s": "Delegates",
+         ".": "The Delegates tab"
+   },
+   {
+         "s": "Publisher"
+   },
+   {
+         "s": "Emergency Contacts",
+         ".": "The Emergency Contacts tab on the publisher's information page"
+   },
+   {
+         "s": "is a way for you to take your data with you. It's a downloadable file of your Congregation's Hourglass data",
+         ".": "Information about the Export option"
+   },
+   {
+         "s": "saves you time by importing data from other programs into Hourglass",
+         ".": "Information about the Import option"
+   },
+   {
+         "s": "lets you change settings for your Congregation and manage the roles that users have",
+         ".": "Information about the Profile & Permissions menu option"
+   },
+   {
+         "s": "is where you record meeting attendance for each month. This is later used when compiling the Congregation Analysis report",
+         ".": "Information about Meeting Attendance"
+   },
+   {
+         "s": "allows you to assign publishers to groups, create and delete groups, and change Group Overseers",
+         ".": "Information about the Field Service Groups option on the Congregation menu"
+   },
+   {
+         "s": "shows the running totals for publishers, auxiliary and regular pioneers and can be printed to an S-21",
+         ".": "Information on the Service Year Totals report"
+   },
+   {
+         "s": "is used to create the annual report to the Branch (S-10)",
+         ".": "Information on the Congregation Analysis report"
+   },
+   {
+         "s": "provides an overview of Pioneer progress toward their yearly quota",
+         ".": "Information on the Regular Pioneers report"
+   },
+   {
+         "s": "shows the last few months of activity for the selected publishers",
+         ".": "Information on the publisher averages report"
+   },
+   {
+         "s": "shows a breakdown and details on a per-group basis",
+         ".": "Information on the group averages report"
+   },
+   {
+         "s": "allows you to see congregation field service activity over time",
+         ".": "Information about the congregation averages report"
+   },
+   {
+         "s": "lists every report received during a month for all publishers",
+         ".": "Information on the monthly detail report"
+   },
+   {
+         "s": "is the totals for the Congregation. Use this to automatically compile your report to the Branch",
+         ".": "Information on the monthly summary report"
+   },
+   {
+         "s": "shows missing field service reports for each group",
+         ".": "Information on the Missing report"
+   },
+   {
+         "s": "That's the end of the Hourglass overview. If you're ready to get started, you may want to watch this short video that will walk you through your first month.",
+         ".": "The last window of the tour"
+   },
+   {
+         "s": "displays emergency contact information for each publisher, organized by group",
+         ".": "Description of the emergency contacts option in the Publishers menu"
+   },
+   {
+         "s": "displays contact information for all publishers in the congregation",
+         ".": "Description of the All Publishers contacts option in the Publishers menu"
+   },
+   {
+         "s": "is a list of those who have been disqualified from publishing. Their information is saved and they can be reinstated from this page",
+         ".": "Description of the Not Publishing option in the Publishers menu"
+   },
+   {
+         "s": "creates a PDF of your congregation's S-21 Publisher Record Cards",
+         ".": "Description of the Record Cards option in the Publishers menu"
+   },
+   {
+         "s": "reminds publishers who haven't turned in their time to do so. This is sent only to publishers who have accepted an invitation to Hourglass",
+         ".": "Description of the Send Reminders option in the Publisher menu"
+   },
+   {
+         "s": "allows you to enter a new Publisher in your Congregation",
+         ".": "Description of the Add option in the Publishers menu"
+   },
+   {
+         "s": "The publisher's field service activity is shown here. You can press Tab to move between fields. The report is saved automatically, or you can press Enter to save it immediately.",
+         ".": "The tour information regarding field service reports"
+   },
+   {
+         "s": "Tab",
+         ".": "The name of the Tab key on your keyboard"
+   },
+   {
+         "s": "Postal addresses will autocomplete. If two or more people live together, just start typing the first few letters of the address and select it from the popup.",
+         ".": "Information on how to enter addresses"
+   },
+   {
+         "s": "To allow access on multiple devices, send additional invites.",
+         ".": "Instructions on how to link multiple devices for one user"
+   },
+   {
+         "s": "For security reasons, an invite can only be used once.",
+         ".": "Information on the security of invitations"
+   },
+   {
+         "s": "If they have an email address, you can invite them to Hourglass, which will allow them to submit their own time with a mobile device or web browser.",
+         ".": "Information about invitations"
+   },
+   {
+         "s": "A publisher's information is shown here.",
+         ".": "First part of the publisher details tour"
+   },
+   {
+         "s": "Publisher Details",
+         ".": "Title for the Publisher Details window of the tour"
+   },
+   {
+         "s": "To continue on the tour, select yourself in the list.",
+         ".": "Prompts the user to select themselves in the user list to continue the tour."
+   },
+   {
+         "s": "When the members of your congregation have been added, their names will be displayed here. To view a publisher's details, you can click on them in this list.  You can also type a few letters of the person's name, and once they're highlighted, press Enter.",
+         ".": "Instructional text that is part of the overview tour of Hourglass.  Note that the sentence is NOT complete; it ends with \"press\" and will be followed by the name of the Enter key on your keyboard, which is translated separately."
+   },
+   {
+         "s": "Welcome to Hourglass! Let's take a short tour so you can see how to use it.",
+         ".": "Initial tour welcome window"
+   },
+   {
+         "s": "Tour",
+         ".": "Title of the tour window"
+   },
+   {
+         "s": "Exit",
+         ".": "Quit the tour by clicking this button"
+   },
+   {
+         "s": "Next",
+         ".": "Next button on the overview tour"
+   },
+   {
+         "s": "Emails sent:",
+         ".": "When reminders are sent, this shows how many emails were sent"
+   },
+   {
+         "s": "Push notifications sent:",
+         ".": "When reminders are sent, this shows how many push notifications went out"
+   },
+   {
+         "s": "No active publishers were listed in your TSWIN Export.",
+         ".": "When the TSWIN file being imported contains no active publishers, this error is shown"
+   },
+   {
+         "s": "Your TSWIN Export file is not in the correct format. Ensure that you have a valid XML export from version 7.0.5.2 or higher.",
+         ".": "When the TSWIN import file is not correct, this informative error is displayed"
+   },
+   {
+         "s": "Unknown error."
+   },
+   {
+         "s": "Unable to process the file.",
+         ".": "Unable to process that file."
+   },
+   {
+         "s": "No file uploaded.",
+         ".": "When no file is uploaded this error is shown"
+   },
+   {
+         "s": "File name is not valid.",
+         ".": "When the file name uploaded for import is not valid, this error is shown"
+   },
+   {
+         "s": "Continuous Auxiliary Pioneer",
+         ".": "Status of a continuous auxiliary pioneer"
+   },
+   {
+         "s": "Unbaptized Publisher",
+         ".": "The status of an unbaptized publisher"
+   },
+   {
+         "s": "Special Pioneer",
+         ".": "The status of a special pioneer"
+   },
+   {
+         "s": "Regular Pioneer",
+         ".": "The status for a regular pioneer"
+   },
+   {
+         "s": "Baptized Publisher",
+         ".": "The status for a baptized publisher"
+   },
+   {
+         "s": "All time is accounted for; there are no missing reports.",
+         ".": "Message displayed when there are no missing reports for a given month"
+   },
+   {
+         "s": "Inactive",
+         ".": "Indicates that the publisher is inactive"
+   },
+   {
+         "s": "Group Assistant",
+         ".": "Context menu item to make this person the group assistant"
+   },
+   {
+         "s": "Make Overseer of This Group",
+         ".": "Context menu item for making this person the overseer of the group they are currently in"
+   },
+   {
+         "s": "Make Overseer of New Group",
+         ".": "Context menu item that makes this person the overseer of a new group"
+   },
+   {
+         "s": "Remove Group Assignment",
+         ".": "Context menu item that removes the field service group assignment"
+   },
+   {
+         "s": "Change Group",
+         ".": "When you right-click on someone, this menu section allows their group to be changed"
+   },
+   {
+         "s": "Go Back",
+         ".": "Button or action that goes back to a previous page or action"
+   },
+   {
+         "s": "Save",
+         ".": "Button or other text indicating that something will be saved"
+   },
+   {
+         "s": "There was an error sending reminders. Some or all may not have been sent.",
+         ".": "Error message displayed when reminders could not be sent"
+   },
+   {
+         "s": "My Reports",
+         ".": "When a non-admin logs in, this menu item lets them view their own field service reports"
+   },
+   {
+         "s": "Export",
+         ".": "Menu item for data export"
+   },
+   {
+         "s": "Import",
+         ".": "Menu item for data import"
+   },
+   {
+         "s": "Profile & Permissions",
+         ".": "Menu item for congregation profile & permissions"
+   },
+   {
+         "s": "Meeting Attendance",
+         ".": "Menu item for meeting attendance"
+   },
+   {
+         "s": "Field Service Groups",
+         ".": "Menu item for managing field service groups"
+   },
+   {
+         "s": "Service Year Totals",
+         ".": "Menu item for service year totals"
+   },
+   {
+         "s": "Congregation Analysis",
+         ".": "Menu item for the annual Congregation Analysis report"
+   },
+   {
+         "s": "Group",
+         ".": "Menu item for group averages"
+   },
+   {
+         "s": "Averages",
+         ".": "Reports Menu section for averages"
+   },
+   {
+         "s": "Detail",
+         ".": "Menu item for monthly detail report"
+   },
+   {
+         "s": "Summary",
+         ".": "Menu item for monthly summary report"
+   },
+   {
+         "s": "Monthly",
+         ".": "Menu section for monthly reports"
+   },
+   {
+         "s": "Emergency",
+         ".": "Menu item for showing emergency contacts"
+   },
+   {
+         "s": "All Publishers",
+         ".": "Menu item for the congregation contact list"
+   },
+   {
+         "s": "Contact Lists",
+         ".": "Menu section for contact lists (all publishers and emergency)"
+   },
+   {
+         "s": "Not Publishing",
+         ".": "Menu item to display all those who are not publishing. These are disfellowshipped or people who have moved out of the congregation. This is not inactive publishers."
+   },
+   {
+         "s": "Record Cards",
+         ".": "Menu item to show all publisher's record cards"
+   },
+   {
+         "s": "Send Reminders",
+         ".": "Menu item to send reminders"
+   },
+   {
+         "s": "Add",
+         ".": "Menu item to add a new publisher"
+   },
+   {
+         "s": "Not A Publisher",
+         ".": "The action to remove someone from being a publisher. It is not for those who are inactive. An example is someone who is disfellowshipped."
+   },
+   {
+         "s": "Delete",
+         ".": "The action to delete someone from the congregation"
+   },
+   {
+         "s": "Revoke Access",
+         ".": "The action to revoke someone's access"
+   },
+   {
+         "s": "Restore Access",
+         ".": "The action to restore access to a previously-revoked user"
+   },
+   {
+         "s": "Send Reminder",
+         ".": "The action to send a reminder to a single publisher"
+   },
+   {
+         "s": "Invite Again",
+         ".": "The action to send another invitation"
+   },
+   {
+         "s": "Invite",
+         ".": "The action to send an invitation to the publisher"
+   },
+   {
+         "s": "Publisher Card",
+         ".": "To view the publisher card from the Actions drop-down"
+   },
+   {
+         "s": "Access restored.",
+         ".": "This appears when a user's access has been restored."
+   },
+   {
+         "s": "Access revoked.",
+         ".": "When a user's access has been successfully revoked, this appears"
+   },
+   {
+         "s": "Missing",
+         ".": "In the chart shown after login, this indicates missing reports"
+   },
+   {
+         "s": "Entered by Admin",
+         ".": "In the legend on the chart shown after login, this indicates the reports entered by an admin"
+   },
+   {
+         "s": "Entered by Publisher",
+         ".": "In the legend on the chart shown after login, this indicates the reports entered by publishers"
+   },
+   {
+         "s": "*One or more months have no report or a report of zero hours. This publisher may be irregular or inactive",
+         ".": "When a publisher is missing a report, or has a 0-hour month, a * is placed by them. This is the text of the footnote."
+   },
+   {
+         "s": "There are no field service reports in the last 6 months for the selected publisher type.",
+         ".": "When there are no reports to display for the publisher average, this message is shown"
+   },
+   {
+         "s": "Baptized Brothers (Not Appointed)",
+         ".": "This displays only the baptized brothers who are not appointed"
+   },
+   {
+         "s": "Baptized Brothers (Appointed)",
+         ".": "This displays only the appointed, baptized brothers"
+   },
+   {
+         "s": "Baptized Brothers (All)",
+         ".": "In the publisher average report, this selection will display all baptized brothers"
+   },
+   {
+         "s": "Import failed.",
+         ".": "When the import fails"
+   },
+   {
+         "s": "Import results:",
+         ".": "After an import, this heading comes before the table that shows the number of users and reports that were imported"
+   },
+   {
+         "s": "Importing...",
+         ".": "While the import is being processed, this message is displayed"
+   },
+   {
+         "s": "You can only select one file.",
+         ".": "Error message regarding file import"
+   },
+   {
+         "s": "Group Average",
+         ".": "The row for the entire group's average"
+   },
+   {
+         "s": "There are no reports for this group and time period.",
+         ".": "Informational message indicating that there are no reports for the selected group and time period"
+   },
+   {
+         "s": "Total",
+         ".": "The heading for a totals row in a report"
+   },
+   {
+         "s": "All reports included above have been marked submitted.",
+         ".": "Displayed when a month's summary is successfully marked as having been submitted to the Branch"
+   },
+   {
+         "s": "There are no reports to submit.",
+         ".": "Error message when someone tries to submit a month summary that contains no reports"
+   },
+   {
+         "s": "You cannot remove yourself",
+         ".": "An error message indicating that you cannot remove admin permissions from yourself"
+   },
+   {
+         "s": "You must always have two active Congregation Admins",
+         ".": "An error message that's shown when an attempt to remove a congregation administrator would result in there being fewer than 2 admins for the congregation"
+   },
+   {
+         "s": "Drop New Member Here",
+         ".": "Label for the box where you drop someone to add them to the group"
+   },
+   {
+         "s": "SERVANT",
+         ".": "If the group has a MS for its overseer, he's called the Group Servant"
+   },
+   {
+         "s": "OVERSEER",
+         ".": "When the Group is overseen by an Elder he's called the Group Overseer. This heading shows that"
+   },
+   {
+         "s": "Drop Overseer/Servant Here",
+         ".": "Label for the place where a group overseer/servant can be dropped to create a new group"
+   },
+   {
+         "s": "NEW GROUP",
+         ".": "An overseer can be dropped in the box with this label to create a new field service group"
+   },
+   {
+         "s": "Not In a Group",
+         ".": "The heading for publishers not in a group when viewing the group list"
+   },
+   {
+         "s": "Everyone",
+         ".": "Indicates all publishers in a list or in the congregation, depending on the context"
+   },
+   {
+         "s": "Just This Person",
+         ".": "The button to press when you only want to change this publisher's address"
+   },
+   {
+         "s": "Whom do you want to have this new address?  Just this person, or everyone?",
+         ".": "After the list of publishers with the address, this question prompts the user to select one of the two buttons."
+   },
+   {
+         "s": "These other people also have the address you just changed:",
+         ".": "A heading for the list of publishers that also had the previous address"
+   },
+   {
+         "s": "New Address",
+         ".": "The title of a popup asking the user how to handle a newly-entered address."
+   },
+   {
+         "s": "Help",
+         ".": "Navigation link that opens the online help documentation."
+   },
+   {
+         "s": "Reports",
+         ".": "The menu in the administrator's view where reports (missing time, monthly summary, etc.) can be selected."
+   },
+   {
+         "s": "You've just entered the oldest report in your Congregation. If it has already been included in a previous monthly report sent to the Branch, please right-click (or tap the month or reported date on a touchscreen) and mark it as submitted.  If you don't mark it as submitted, it will be treated as a late report and included in the next monthly summary.",
+         ".": "The text of the warning popup reminding the user that the report might need to be marked as already submitted."
+   },
+   {
+         "s": "Old Report",
+         ".": "The header of the warning popup when the oldest report is entered into a congregation. It reminds the administrator that they may want to mark the report as already submitted."
+   },
+   {
+         "s": "Your current sign-in method:",
+         ".": "Label that indicates the user's current sign-in method (password or google sign-in)"
+   },
+   {
+         "s": "The current password is not correct.",
+         ".": "When the current password that is entered as part of changing the sign-in password is incorrect, this is displayed."
+   },
+   {
+         "s": "There was an error signing out of Google.",
+         ".": "If we are switching away from Google sign-in, but we could not sign out of Google, this is shown."
+   },
+   {
+         "s": "That Google account is already being used to sign in to Hourglass.",
+         ".": "If the user tries to change their sign-in to a Google account that already exists, this message is shown."
+   },
+   {
+         "s": "Unable to use that Google account.",
+         ".": "If there is an unknown failure to authenticate the Google account when changing the sign-in address or method, this is shown."
+   },
+   {
+         "s": "There was an error processing the code.",
+         ".": "When the email validation code fails and the sign-in email address is not shown, this message is displayed."
+   },
+   {
+         "s": "Your sign-in email address has been changed.",
+         ".": "When the validation code has been successful and the sign-in email address has been changed, this message is shown."
+   },
+   {
+         "s": "There was an error trying to change your sign-in email address.",
+         ".": "Message shown when an unknown error occurs trying to change sign-in email addresses"
+   },
+   {
+         "s": "That email address is already being used to sign in to Hourglass.",
+         ".": "Error message shown when the new email address entered by the user is already being used to sign-in to Hourglass."
+   },
+   {
+         "s": "That email address is invalid.",
+         ".": "Error message shown when the email address that is entered is invalid"
+   },
+   {
+         "s": "A validation code has been sent to this address. Enter it below to change your sign-in email address.",
+         ".": "Message that appears when a validation code has been sent to the user who is trying to change their sign-in email address"
+   },
+   {
+         "s": "Validate Email",
+         ".": "Button that validates the user's email (using the code they were sent)"
+   },
+   {
+         "s": "Change Password",
+         ".": "Button that allows the user to change their current password"
+   },
+   {
+         "s": "Create Password",
+         ".": "Button that allows the user to create a password."
+   },
+   {
+         "s": "Email Code",
+         ".": "Label for the field where the user enters the validation code to confirm their new sign-in email address"
+   },
+   {
+         "s": "Change Sign-In Email",
+         ".": "This button submits the new email address for sign-in"
+   },
+   {
+         "s": "New Password",
+         ".": "Label for the field where the user enters their new password (this is when they change their password)"
+   },
+   {
+         "s": "New Sign-In Email",
+         ".": "Label for the field where the user can enter a new email address to use when signing in."
+   },
+   {
+         "s": "Current Password",
+         ".": "Label for the field where the current password is entered"
+   },
+   {
+         "s": "Google sign-in, especially with two-factor authentication enabled, is the most secure way to access Hourglass.  If you would like to stop using it, create a password.",
+         ".": "Text that recommends the user continue using Google sign-in."
+   },
+   {
+         "s": "Switch to Google Sign In",
+         ".": "Label for the Google sign-in button when the current authentication method is Password. This allows the user to switch from using a password to using Google sign-in."
+   },
+   {
+         "s": "Change Google Account",
+         ".": "Label for the google sign-in button when the user is already using Google sign-in. It lets them switch to a different Google account."
+   },
+   {
+         "s": "Google Sign-In",
+         ".": "Indicates that the current authentication method is Google sign-in"
+   },
+   {
+         "s": "Password",
+         ".": "Indicates that the authentication method is a password"
+   },
+   {
+         "s": "Your current sign-in email address:",
+         ".": "When viewing the Authentication tab, this heading appears above your current sign-in email address and method (password or Google)."
+   },
+   {
+         "s": "You have requested a change in the email address used to sign in to Hourglass.  To complete the change, use the following code: %(code)s",
+         ".": "When a user changes the email address they use to sign in, a code is sent to verify they can access that email address. This is the text of the email containing the code.  The placeholder %(code)s must be in the translated text."
+   },
+   {
+         "s": "View congregation assignments and field service reports.",
+         ".": "A short description, used on the Google Play store.  It MUST be 80 characters or less!"
+   },
+   {
+         "s": "Please try again later.",
+         ".": "When too many attempts have been made, this tells the user to try again at a later time."
+   },
+   {
+         "s": "Video\nShowings",
+         ".": "The heading for the column on the S-21 where video showings are recorded (starting January 2016).\nIt should be capitalized according to the S-21."
+   },
+   {
+         "s": "Placements",
+         ".": "The heading for the column on the S-21 where placements are recorded (starting January 2016)"
+   },
+   {
+         "s": "Comments",
+         ".": "Where comments are entered in a report for January 2016 or later"
+   },
+   {
+         "s": "Number of Different Bible Studies Conducted",
+         ".": "Where bible studies are entered in a report for January 2016 or later"
+   },
+   {
+         "s": "Video Showings",
+         ".": "Where video showings are entered in a report for January 2016 or later"
+   },
+   {
+         "s": "Placements (Printed and Electronic)",
+         ".": "Where placements are entered in a report for January 2016 or later"
+   },
+   {
+         "s": "Comments",
+         ".": "When entering a report for January 2016 or later, this indicates where comments may be typed."
+   },
+   {
+         "s": "Number of Different Bible Studies Conducted",
+         ".": "When entering a report for January 2016 or later, this is for bible studies."
+   },
+   {
+         "s": "Return Visits",
+         ".": "When entering a report for January 2016 or later, this indicates return visits."
+   },
+   {
+         "s": "Hours",
+         ".": "The default unit for time, hours."
+   },
+   {
+         "s": "Time",
+         ".": "When entering a report for January 2016 or later, this indicates time spent in the ministry. Note that time could be hours or minutes, depending on the value of a toggle switch, so this label should not mean \"hours\" but \"time\"."
+   },
+   {
+         "s": "Video Showings",
+         ".": "When entering a report for January 2016 or later, this indicates video showings."
+   },
+   {
+         "s": "Placements (Printed and Electronic)",
+         ".": "When entering a report for January 2016 or later, this label is for Placements (printed or electronic)."
+   },
+   {
+         "s": "Last Month",
+         ".": "Shortcut that takes the user directly to the last month (the month they should be entering their report for)."
+   },
+   {
+         "s": "Regular Pioneers",
+         ".": "\"Regular Pioneers\" (plural). Used as the name of the publisher record card for the regular pioneer totals, among other things."
+   },
+   {
+         "s": "Auxiliary Pioneers",
+         ".": "\"Auxiliary Pioneers\" (plural). Used as the name of the publisher record card for the auxiliary pioneer totals, among other things."
+   },
+   {
+         "s": "Search...",
+         ".": "A prompt displayed in the search box"
+   },
+   {
+         "s": "S-21-E",
+         ".": "The form number for the publisher record card (e.g. S-21-E for English)"
+   },
+   {
+         "s": "Anointed",
+         ".": "On the S-21 publisher record card, this is the title of the checkbox indicating that the publisher is anointed."
+   },
+   {
+         "s": "Please enter a valid value for %s.",
+         ".": "Generic invalid input message. Placeholder %s indicates the invalid field."
+   },
+   {
+         "s": "Publishers",
+         ".": "When displaying a list of publishers that can be selected, this is the title. Usually this will be seen when someone is allowed to enter field service reports for other people, and the list of those people is being displayed."
+   },
+   {
+         "s": "SP",
+         ".": "Abbreviation for Special Pioneer. It must be 1 or two letters."
+   },
+   {
+         "s": "The month of %(month)s is not yet over.",
+         ".": "Similar to the popup. This is used on the web page where publishers enter time to remind them that they're entering time for a month that isn't over yet."
+   },
+   {
+         "s": "Reports",
+         ".": "Back button text when viewing a particular month"
+   },
+   {
+         "s": "Congregation",
+         ".": "Title of the list of members in the congregation"
+   },
+   {
+         "s": "Error: Someone in Hourglass is already using the email address this invite was sent to.",
+         ".": "When someone accepts an invite, but the email address the invite was sent to is already being used to log in (non-Google)."
+   },
+   {
+         "s": "Error: Someone in Hourglass is already using that Google account.",
+         ".": "When someone accepts an invite and tries to sign in with Google, but their Google account is already registered in Hourglass."
+   },
+   {
+         "s": "Pioneer hours:",
+         ".": "In the totals on a publisher record card, this shows the regular pioneer's total hours and their annual quota"
+   },
+   {
+         "s": "Log in with browser",
+         ".": "Small button on invite acceptance page that lets mobile users log in with their browser instead of the app. Only visible when the user has permissions (e.g. group overseer or congregation admin)"
+   },
+   {
+         "s": "This site uses cookies as part of the login process. You need to enable cookies in your browser in order to log in.",
+         ".": "When cookies are disabled in the browser, this tells the user that they can't log in without them."
+   },
+   {
+         "s": "Sign Out"
+   },
+   {
+         "s": "Credit:",
+         ".": "A label indicating that what follows are credit hours, e.g. for a regular pioneer"
+   },
+   {
+         "s": "Total"
+   },
+   {
+         "s": "Remarks"
+   },
+   {
+         "s": "Bible\nStudies",
+         ".": "The heading on the S-21 form"
+   },
+   {
+         "s": "Return\nVisits",
+         ".": "The heading on the S-21 form"
+   },
+   {
+         "s": "MAGAZINES",
+         ".": "The heading on the S-21 form"
+   },
+   {
+         "s": "Hours",
+         ".": "The heading on the S-21 form"
+   },
+   {
+         "s": "Service Year",
+         ".": "The heading on the S-21 form"
+   },
+   {
+         "s": "Anointed or \"other sheep\":",
+         ".": "As shown on the S-21 form checkbox"
+   },
+   {
+         "s": "Regular pioneer",
+         ".": "As shown on the S-21 form checkbox"
+   },
+   {
+         "s": "Ministerial servant",
+         ".": "As shown on the S-21 form checkbox"
+   },
+   {
+         "s": "Elder",
+         ".": "As shown on the S-21 form checkbox"
+   },
+   {
+         "s": "Female",
+         ".": "As shown on the S-21 form checkbox"
+   },
+   {
+         "s": "Male",
+         ".": "As shown on the S-21 form checkbox"
+   },
+   {
+         "s": "Date immersed:"
+   },
+   {
+         "s": "Date of birth:"
+   },
+   {
+         "s": "Mobile telephone:"
+   },
+   {
+         "s": "Home telephone:"
+   },
+   {
+         "s": "Home address:"
+   },
+   {
+         "s": "Name:"
+   },
+   {
+         "s": "CONGREGATION’S PUBLISHER RECORD",
+         ".": "This is the heading of the S-21 publisher record card"
+   },
+   {
+         "s": "You can't have more studies than return visits. Each time you conduct a study counts as a return visit.",
+         ".": "This error appears when someone enters more studies than return visits on their field service report."
+   },
+   {
+         "s": "Sign In with your Google account."
+   },
+   {
+         "s": "The invitation could not be created. Please try again later."
+   },
+   {
+         "s": "The invitation text message failed to send."
+   },
+   {
+         "s": "Text"
+   },
+   {
+         "s": "E-mail"
+   },
+   {
+         "s": "QR"
+   },
+   {
+         "s": "Cancel"
+   },
+   {
+         "s": "Invite"
+   },
+   {
+         "s": "Someone requested an Hourglass password reset based on your email address. You can reset your password here: %(forgotpw_url)s"
+   },
+   {
+         "s": "Hourglass Password Reset"
+   },
+   {
+         "s": "Someone requested an Hourglass password reset using your email address. If you forgot your password and need to reset it, please click the button below."
+   },
+   {
+         "s": "Reset Your Hourglass Password"
+   },
+   {
+         "s": "Are you a robot?"
+   },
+   {
+         "s": "Enter the new password again",
+         ".": "Tooltip that instructs the user to enter the new password again"
+   },
+   {
+         "s": "New Password"
+   },
+   {
+         "s": "The passwords do not match. You must enter the same password twice."
+   },
+   {
+         "s": "The password is not strong enough. Do not use your name or email as part of the password. Include upper and lower case letters, numbers, and other characters."
+   },
+   {
+         "s": "Your new password has been set."
+   },
+   {
+         "s": "Please check your email."
+   },
+   {
+         "s": "To reset your password, enter the email address you use to log in Hourglass."
+   },
+   {
+         "s": "Reset Password",
+         ".": "Form label or button that tells the user to reset their password"
+   },
+   {
+         "s": "I forgot"
+   },
+   {
+         "s": "Your report has been submitted."
+   },
+   {
+         "s": "There was an error submitting your report."
+   },
+   {
+         "s": "Studies"
+   },
+   {
+         "s": "Return Visits"
+   },
+   {
+         "s": "Magazines"
+   },
+   {
+         "s": "Brochures"
+   },
+   {
+         "s": "Tracts"
+   },
+   {
+         "s": "Remarks"
+   },
+   {
+         "s": "Send"
+   },
+   {
+         "s": "Hours",
+         ".": "When a publisher is entering their time, this field indicates the number of hours spent in the ministry."
+   },
+   {
+         "s": "Books"
+   },
+   {
+         "s": "Please enter your field service report.",
+         ".": "A push notification that reminds people to turn in their time using the app"
+   },
+   {
+         "s": "No",
+         ".": "When a yes/no confirmation screen is presented to the user, this button is no"
+   },
+   {
+         "s": "Yes",
+         ".": "When a yes/no confirmation screen is presented to the user, this button is yes"
+   },
+   {
+         "s": "Confirm",
+         ".": "Title of future month warning popup"
+   },
+   {
+         "s": "The month of %@ is not yet over. Are you sure you want to enter your report?",
+         ".": "When the user selects a month that isn't over yet, this warning appears.\n%@ is a placeholder for the name of the month."
+   },
+   {
+         "s": "Hourglass Time"
+   },
+   {
+         "s": "View congregation assignments and schedules, enter your field service reports, receive notifications and reminders, and more!\n\nTo use this app, you need an invitation from your Congregation Secretary. Open the invitation email on your device and accept the invitation.",
+         ".": "This is the full description of the app displayed in the iTunes or Google Play app store"
+   },
+   {
+         "s": "Hourglass",
+         ".": "The title of the main window. Should be the same as the app name."
+   },
+   {
+         "s": "Report Already Submitted",
+         ".": "Error message title when a report is sent to the app from another app via URL but the report for that month is already submitted"
+   },
+   {
+         "s": "Pull to refresh",
+         ".": "In the main list of reports, when you pull down, this text displays indicating that the list will be refreshed"
+   },
+   {
+         "s": "A report for that month has already been submitted.",
+         ".": "Error message body when a report is sent to the app from another app via URL but the report for that month is already submitted"
+   },
+   {
+         "s": "Hourglass Invitation",
+         ".": "The subject line of the invitation email"
+   },
+   {
+         "s": "Hi %(firstname)s, this is your invitation to use Hourglass.  It lets you receive congregation assignments, view schedules, submit your field service reports, and sends you reminders.",
+         ".": "Main text of the email invitation"
+   },
+   {
+         "s": "If you have an Apple or Android mobile device, please use it to click the button below.",
+         ".": "Second paragraph of email invitation"
+   },
+   {
+         "s": "Your Google account is not registered with Hourglass.  Please contact an administrator in your congregation.",
+         ".": "Error message indicating that the google account isn't registered, and thus the user can't log in."
+   },
+   {
+         "s": "Hourglass Sign In",
+         ".": "The heading of the login page."
+   },
+   {
+         "s": "Password",
+         ".": "Label of the field where the user enters their password."
+   },
+   {
+         "s": "Step 1",
+         ".": "When someone accepts an invitation on a mobile device, this is the label above the first button. It indicates that there are two steps to getting the app working, and this is the first step."
+   },
+   {
+         "s": "Get the app",
+         ".": "The text of the first button when someone accepts an invite on a mobile device. It indicates that they need to install the app. Clicking on this button will take them to the App Store."
+   },
+   {
+         "s": "Hourglass",
+         ".": "Hourglass is the name of the system and the app. If this name should be translated please do so."
+   },
+   {
+         "s": "Accept Invitation",
+         ".": "The text that appears on the button in the invitation email. Clicking the button takes the user to the \"accept invitation\" web page."
+   },
+   {
+         "s": "You have not authorized this site to allow Google login.",
+         ".": "Error message that Google authentication failed because the user did not allow the site to link their Google account."
+   },
+   {
+         "s": "Link the app",
+         ".": "The text of the second button when someone accepts an invite on a mobile device. It links their profile to the app."
+   },
+   {
+         "s": "Sorry, but your browser is too old to work with this web site. Please upgrade it. We recommend %(chrome)s.\n\n",
+         ".": "Body of unsupported web browser error message."
+   },
+   {
+         "s": "Hi %(firstname)s, welcome to Hourglass!",
+         ".": "The top of the page that a user sees when they accept an invitation."
+   },
+   {
+         "s": "Don't have a Google account, or don't want to use it? %(link)s",
+         ".": "A message that tells the user what to do if they don't want to use their Google account."
+   },
+   {
+         "s": "%(invitor_name)s has invited you to Hourglass, a modern way to organize congregation activities.  Accept the invitation by clicking here: %(invite_url)s",
+         ".": "NOTE: The text-only body of the email inviting someone to use Hourglass"
+   },
+   {
+         "s": "Thank you,",
+         ".": "End of email invitation. This will be followed on the next line with the first name of the person sending the invitation."
+   },
+   {
+         "s": "Unsupported Browser",
+         ".": "Heading of an error message indicating an unsupported web browser."
+   },
+   {
+         "s": "Error:",
+         ".": "When an error has occurred, this precedes a specific error message."
+   },
+   {
+         "s": "Sign Up",
+         ".": "If the user's login fails, they may be shown this link to sign up (register) for Hourglass."
+   },
+   {
+         "s": "We experienced an error authenticating your Google credentials.",
+         ".": "Error message that the Google signin failed."
+   },
+   {
+         "s": "Thanks for registering and validating your email address.  Please sign in below.",
+         ".": "Message that someone who just registered has validated their email address and can now log in."
+   },
+   {
+         "s": "Email Address",
+         ".": "Label of the field where the user enters their email address."
+   },
+   {
+         "s": "Log In",
+         ".": "On the login page, this button appears at the bottom. Clicking it attempts a login."
+   },
+   {
+         "s": "Invalid email address or password.",
+         ".": "An error message displayed when someone tries to log in with invalid credentials."
+   },
+   {
+         "s": "Sorry, we encountered an error.",
+         ".": "Heading of an unknown error."
+   },
+   {
+         "s": "We seem to be having a bit of a problem right now.  Please try again!",
+         ".": "Body text for an unknown error."
+   },
+   {
+         "s": "Step 2",
+         ".": "When someone accepts an invitation on a mobile device, this is the label above the second button."
+   },
+   {
+         "s": "Click here.",
+         ".": "The text of a link indicating where the user can click to skip using their Google account."
+   },
+   {
+         "s": "Pick a password that you'll use to log in.  It needs to be a strong password, with numbers, upper and lower case letters.",
+         ".": "Prompts the user to enter in a password they will use to log in."
+   },
+   {
+         "s": "Your password isn't secure. Make it longer, add numbers, etc.",
+         ".": "An error message indicating that the password is not strong (secure) enough."
+   },
+   {
+         "s": "Go",
+         ".": "When someone accepts an invitation on their computer, this is the final button they click to complete the form."
+   },
+   {
+         "s": "Invalid Invitation",
+         ".": "The title of the invalid invitation error message"
+   },
+   {
+         "s": "The invitation you used is no longer working. If you already used it on another device, ask for another invitation to link a different device.",
+         ".": "Error message displayed when someone tries to use an invitation that is not valid."
+   },
+   {
+         "s": "%d hour"
+   },
+   {
+         "s": "%d minute"
+   },
+   {
+         "s": "Please select a month",
+         ".": "Asks the user to pick a month from the list of reports."
+   },
+   {
+         "s": "Minutes must be 0, 1, 15, 30, or 45.",
+         ".": "The body of the error message when the number of minutes is invalid. The only allowed values for minutes are 0, 15, 30, and 45."
+   },
+   {
+         "s": "OK",
+         ".": "The button on an error popup."
+   },
+   {
+         "s": "Magazines",
+         ".": "Class = \"IBUILabel\"; text = \"Magazines\"; ObjectID = \"2LM-K5-Z1w\";"
+   },
+   {
+         "s": "Return Visits",
+         ".": "Class = \"IBUILabel\"; text = \"Return Visits\"; ObjectID = \"7oh-Lh-Ryh\";"
+   },
+   {
+         "s": "Studies",
+         ".": "Class = \"IBUILabel\"; text = \"Studies\"; ObjectID = \"GaC-XA-Fvh\";"
+   },
+   {
+         "s": "Brochures",
+         ".": "Class = \"IBUILabel\"; text = \"Brochures\"; ObjectID = \"Ivx-oc-OKI\";"
+   },
+   {
+         "s": "Tracts",
+         ".": "Class = \"IBUILabel\"; text = \"Tracts\"; ObjectID = \"M0y-FY-UuP\";"
+   },
+   {
+         "s": "Reports",
+         ".": "Class = \"IBUINavigationItem\"; title = \"Reports\"; ObjectID = \"Zdf-7t-Un8\";"
+   },
+   {
+         "s": "Remarks",
+         ".": "Class = \"IBUILabel\"; text = \"Remarks\"; ObjectID = \"ZgH-3t-kj1\";"
+   },
+   {
+         "s": "Hours",
+         ".": "Class = \"IBUILabel\"; text = \"Hours\"; ObjectID = \"eIl-wc-q02\";"
+   },
+   {
+         "s": "Time",
+         ".": "Class = \"IBUILabel\"; text = \"Time\"; ObjectID = \"trs-EF-QZs\";"
+   },
+   {
+         "s": "Books",
+         ".": "Class = \"IBUILabel\"; text = \"Books\"; ObjectID = \"yVQ-NA-dd3\";"
+   },
+   {
+         "s": "Your report has been submitted",
+         ".": "Informs the user that their report has been successfully submitted."
+   },
+   {
+         "s": "Sorry, your information could not be retrieved. Your network connection might not be working, or you may need to request a new invitation.",
+         ".": "Error message popup main text when there is an error retrieving the list of reports"
+   },
+   {
+         "s": "Unable to submit your report.",
+         ".": "An error message indicating that the report could not be submitted."
+   },
+   {
+         "s": "Please enter a valid value for Time.",
+         ".": "The body of the error message when the value for the time field is invalid."
+   },
+   {
+         "s": "You need to open an invitation in order to use Hourglass on this device. If you don't have an invitation to Hourglass, please ask your Congregation Secretary for one.",
+         ".": "Error message popup main text when the app is not linked"
+   },
+   {
+         "s": "That's too many hours.",
+         ".": "The body of the error message when the number of hours input is too large."
+   },
+   {
+         "s": "Unable to link your device. Please try again later.",
+         ".": "When an error occurs linking the app, this message is the body of the popup"
+   },
+   {
+         "s": "Can't Get Reports",
+         ".": "Error message popup title when there is an error retrieving the list of reports"
+   },
+   {
+         "s": "Error",
+         ".": "When a generic error message pops up, this is the title of the window"
+   },
+   {
+         "s": "Invalid Input",
+         ".": "The title of an error message displayed when the user inputs invalid data into the field service report."
+   },
+   {
+         "s": "Send Report",
+         ".": "Class = \"IBUIBarButtonItem\"; title = \"Send Report\"; ObjectID = \"jql-3P-79C\";"
+   },
+   {
+         "s": "%d hours",
+         ".": "When displaying the list of reports, this indicates that some number of hours were reported. It could be 0, 1, or any other number."
+   },
+   {
+         "s": "Not Linked",
+         ".": "Error message popup title when the app is not linked"
+   },
+   {
+         "s": "No report",
+         ".": "When displaying the list of reports, this indicates that no report has been entered for a month."
+   },
+   {
+         "s": "Unknown",
+         ".": "When displaying the list of reports, this indicates that a given report could not be processed. It cannot be displayed in any way."
+   },
+   {
+         "s": "Invalid",
+         ".": "When the month returned from the system is not valid (is not a number between 1 and 12)"
+   },
+   {
+         "s": "AP",
+         ".": "A one- or two-letter abbreviation indicating an Auxiliary Pioneer. Will be displayed when viewing the list of reports."
+   },
+   {
+         "s": "RP",
+         ".": "A one- or two-letter abbreviation indicating a Regular Pioneer. Will be displayed when viewing the list of reports."
+   },
+   {
+         "s": "Reports for %@",
+         ".": "Title displayed when viewing the list of reports. Indicates the name of the person whose reports are being shown. The placeholder %@ must appear in the translated text."
+   },
+   {
+         "s": "Hours",
+         ".": "When viewing a report, this indicates that the time field represents hours."
+   },
+   {
+         "s": "Minutes",
+         ".": "When viewing a report, this indicates that the time field represents minutes instead of hours."
+   },
+   {
+         "s": "%d minutes",
+         ".": "When displaying the list of reports, this indicates that 15, 30, or 45 minutes were reported for a month."
+   }
+]
