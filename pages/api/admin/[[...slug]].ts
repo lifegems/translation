@@ -12,7 +12,7 @@ export default async function handler(req: any, res: any) {
       apiKey: process.env.SUPABASE_SERVICE_ROLE || "",
     };
    const options: RequestInit = {
-      body: '',
+      // body: '',
       method: req.method,
       headers: headers,
    };
