@@ -2,10 +2,11 @@ export default async function handler(req: any, res: any) {
    // get the incoming request URL, e.g. 'posts?limit=10&offset=0&order=id.asc'
    let requestUrl = req.url.substring("/api/admin/".length);
    requestUrl = requestUrl.replaceAll("eq.%21%3D", "neq.");
+   requestUrl = requestUrl.replaceAll("eq.!%3D", "neq.");
    requestUrl = requestUrl.replaceAll("eq.!=", "neq.");
    // build the CRUD request based on the incoming request
    const url = `${process.env.SUPABASE_URL}/rest/v1/${requestUrl}`;
-   console.log("request", url);
+   // console.log("request", url);
    const headers: HeadersInit = {
       prefer: req.headers["prefer"] ?? "",
       accept: req.headers["accept"] ?? "application/json",
