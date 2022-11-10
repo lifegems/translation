@@ -5,6 +5,7 @@ export default async function handler(req: any, res: any) {
    requestUrl = requestUrl.replaceAll("eq.!=", "neq.");
    // build the CRUD request based on the incoming request
    const url = `${process.env.SUPABASE_URL}/rest/v1/${requestUrl}`;
+   console.log("request", url);
    const headers: HeadersInit = {
       prefer: req.headers["prefer"] ?? "",
       accept: req.headers["accept"] ?? "application/json",
