@@ -33,6 +33,7 @@ const TranslationGrid = () => {
       case 2: // reviews
          return (
             <Datagrid rowClick="edit" bulkActionButtons={false}>
+               <TextField source="id" />
                <TextField source="english_text" />
                <TextField source="creole_text" />
                <EditButton />
